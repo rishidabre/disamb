@@ -1,0 +1,11 @@
+https://penandpants.com/2012/03/09/reading-text-tables-with-python/
+http://stackoverflow.com/questions/11893311/installing-3rd-party-python-modules-on-an-ubuntu-linux-machine
+http://stackoverflow.com/questions/287871/print-in-terminal-with-colors-using-python
+http://stackoverflow.com/questions/27924178/creating-multiple-relationships-to-existing-nodes-with-cypher
+http://stackoverflow.com/questions/22267620/check-if-node-exist-in-my-database-neo4j
+http://stackoverflow.com/questions/22337428/how-to-create-multiple-nodes-with-cypher-in-neo4j
+https://neo4j.com/docs/developer-manual/current/cypher/#cypher-working-with-null
+https://docs.python.org/2/library/codecs.html
+http://stackoverflow.com/questions/11086752/read-a-text-file-with-non-ascii-characters-in-an-unknown-encoding
+https://docs.python.org/2/howto/unicode.html
+https://pymotw.com/2/getpass/

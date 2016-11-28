@@ -1,0 +1,8 @@
+000	nancy praill
+001	david banitt
+010	david s rebergen
+011	francesco saverio intorcia
+100	b zelazowska
+101	bo glimskar
+110	lars goerigk
+111	default admin user

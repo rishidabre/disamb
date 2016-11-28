@@ -1,0 +1,6 @@
+Setup Instructions
+------------------
+1. Install the required python libraries as follows:
+	sudo apt-get install python-pip
+	pip install neo4j-driver
+	pip install py2neo==2.0.9

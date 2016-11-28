@@ -1,0 +1,1000 @@
+76381EFA	75421677	077D5E0F	Effat University	effat university	2
+801D26C9	8084BB24	077D5E0F	Effat University	effat university	3
+716E3093	832818A2	077D5E0F	College of Business, Effat University, Jeddah, Saudi Arabia	effat university	1
+8389DBD7	10C312AC	077D5E0F	College of Business, Effat University	effat university	1
+79FAFDC6	01ECE998	077D5E0F	Computer Science Department Effat University Jeddah, KSA	effat university	1
+7CC65FB3	01ECE998	077D5E0F	Computer Science Department, College of Engineering, Effat University, Jeddah, Saudi Arabia	effat university	1
+7ACA75B3	01ECE998	077D5E0F	Department of Computer Science, Effat University, Jeddah, Saudi Arabia	effat university	2
+7B625006	01ECE998	077D5E0F	Computer Science Department, Effat University, P.O. Box 34689, Jeddah 21478, Saudi Arabia#TAB#	effat university	2
+801D26C9	01ECE998	077D5E0F	Effat University	effat university	1
+5AEDE719	01ECE998	077D5E0F	Effat University	effat university	2
+74043F54	813F806C	077D5E0F	Effat university, 21478, Jeddah, Saudia Arabia	effat university	1
+70F7AED8	112ACB8A	077D5E0F	Effat University	effat university	1
+6FECAD99	112ACB8A	077D5E0F	Effat University	effat university	2
+7B01CBEA	824F7274	077D5E0F	S Ward, Human Resources Management, #N#Effat University, Jeddah, 21478, #N#Saudi Arabia	effat university	1
+760CA373	84874435	077D5E0F	Department of Electrical Engineering, Effat University, Jeddah, Saudi Arabia	effat university	3
+79FAFDC6	7604893F	077D5E0F	Electrical and Computer Engineering Department Effat University Jeddah, KSA	effat university	2
+5C0A826A	7D39143B	077D5E0F	Effat University Saudi Arabia and International Islamic university Malaysia	effat university	1
+7AE4FA25	84BF7F5E	077D5E0F	Effat University, JEDDAH, Saudi Arabia	effat university	1
+7FFE9956	84BF7F5E	077D5E0F	Department of Information Systems, College of Engineering, Effat University, Jeddah, Saudi Arabia	effat university	1
+799E0C6C	5F44CB53	077D5E0F	University of Miami|||Effat University	effat university	4
+75C9360C	8513FAE5	077D5E0F	Effat Univ. (Saudi Arabia)	effat university	2
+8151D8C1	80887CE7	077D5E0F	Comput. Sci. Dept., Effat Univ., Jeddah, Saudi Arabia	effat university	2
+7897AB2E	80887CE7	077D5E0F	Department of CS, College of Engineering, Effat University, Jeddah, Saudi Arabia	effat university	3
+81A94E84	81A5D915	077D5E0F	Effat University	effat university	4
+7E4170A1	780793F2	077D5E0F	Effat University	effat university	2
+7AE4FA25	84CFA9DD	077D5E0F	Effat University, Jeddah, Saudi Arabia	effat university	2
+76FAD191	7D76546B	077D5E0F	Effat Univ. (Saudi Arabia)	effat university	3
+6E829504	12525482	077D5E0F	Effat University	effat university	1
+8151D8C1	7D368371	077D5E0F	Electr. & Comput. Eng. Dept., Effat Univ., Jeddah, Saudi Arabia	effat university	1
+37A2290A	7D368371	077D5E0F	Effat University	effat university	3
+776C8300	7D368371	077D5E0F	Effat University	effat university	2
+7E4170A1	808EF2D9	077D5E0F	Effat University	effat university	1
+79BF82C1	808EF2D9	077D5E0F	Effat University, Jeddah 21478, Kingdom of Saudi Arabia	effat university	1
+79BF82C1	82BEA3FB	077D5E0F	Effat University, Jeddah 21478, Kingdom of Saudi Arabia	effat university	2
+04AC5A07	7D90C348	077D5E0F	Effat University	effat university	1
+7CF9736B	84B80B68	077D5E0F	Effat University	effat university	3
+81E04294	7AABEC41	077D5E0F	Effat University	effat university	2
+83CA030F	862A8650	077D5E0F	Effat University, Jeddah, Saudi Arabia#TAB#	effat university	2
+7B625006	7CED02AF	077D5E0F	Student Affairs Deanship, Effat University, P.O. Box 34689, Jeddah 21478, Saudi Arabia.#TAB#	effat university	1
+5AEDE719	7CED02AF	077D5E0F	Effat University	effat university	1
+7ACA75B3	7CED02AF	077D5E0F	Students Affairs, Effat University, Jeddah, Saudi Arabia	effat university	1
+79BF82C1	7CEE2A55	077D5E0F	Effat University, Jeddah 21478, Kingdom of Saudi Arabia	effat university	3
+690179CD	77940D3E	077D5E0F	Effat University Jeddah, Saudi Arabia	effat university	1
+6269948E	77940D3E	077D5E0F	Effat University Jeddah, Saudi Arabia	effat university	1
+7DF498F6	81898E93	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	1
+7B10EC20	7DF76C93	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	3
+7C2BDDE1	849E69DB	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	24
+329342F9	7DF76C93	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	8
+8133EC4A	7DF76C93	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	2
+7EDF0348	7DF76C93	08A945A5	Alnylam Pharmaceuticals Cambridge USA	alnylam pharmaceuticals	2
+7C9ADBE0	7DF76C93	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	3
+7CE1784D	7892061B	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	13
+77D5E5DC	7E9C945C	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	11
+7E12CEC4	7E9C945C	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	21
+8024CFCB	7E9C945C	08A945A5	#N#12Research, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	17
+752292A1	7E9C945C	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	6
+0626F717	7E9C945C	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	3
+716F1EEA	7E9C945C	08A945A5	4Alnylam Pharmaceuticals, Cambridge, Massachusetts	alnylam pharmaceuticals	5
+7370011B	7E9C945C	08A945A5	1Research and Development, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	6
+7E81156B	3D2EB3E8	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	4
+8024CFCB	77A37866	08A945A5	#N#11Clinical, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	21
+7CCE3356	7F5A93D4	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	5
+775B57FB	7F5A93D4	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	11
+7B1E9D04	7F5A93D4	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	5
+7B2D834A	768D4FF7	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	8
+752A783B	768D4FF7	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA and Biotechnology Industry Association (BIO) Washington DC USA	alnylam pharmaceuticals	23
+77EBE5F8	768D4FF7	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	1
+78B2748E	7F75F6BD	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	12
+7C2BDDE1	804F498A	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	16
+7ACC7C31	82E56ADF	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	14
+8128836B	82E56ADF	08A945A5	Alnylam Pharmaceuticals Inc.,Alnylam Europe AG, Fritz-Hornschuch-Str. 9	alnylam pharmaceuticals	1
+7E51DB32	82E56ADF	08A945A5	Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	10
+77D4AFE5	82E56ADF	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	2
+7D5A0921	762AB3ED	08A945A5	Alnylam Pharmaceuticals Inc|Howard Hughes Medical Institute|Laboratory of RNA|Molecular Biology|Rockefeller University	alnylam pharmaceuticals	7
+7E25A580	762AB3ED	08A945A5	4Alnylam Pharmaceuticals	alnylam pharmaceuticals	6
+80D8D229	762AB3ED	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	6
+78BBB4BC	762AB3ED	08A945A5	Alnylam Pharmaceuticals, 300 3rd Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	8
+7D88A0BA	762AB3ED	08A945A5	Department of Drug Discovery, Alnylam Pharmaceuticals Cambridge Massachusetts	alnylam pharmaceuticals	2
+7883D36A	762AB3ED	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	2
+7ACE1669	762AB3ED	08A945A5	Alnylam Pharmaceuticals Inc., Cambridge, MA, USA	alnylam pharmaceuticals	4
+7CFC6CBB	762AB3ED	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)|||Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	1
+796724DA	762AB3ED	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	5
+7B1E9D04	762AB3ED	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	17
+7CC8EEF4	762AB3ED	08A945A5	2Alnylam Pharmaceuticals, Inc., Cambridge, MA	alnylam pharmaceuticals	5
+7D94860B	762AB3ED	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	18
+7ACC7C31	762AB3ED	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	20
+7E51DB32	762AB3ED	08A945A5	Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	8
+757E58D3	762AB3ED	08A945A5	Drug Discovery, Alnylam Pharmaceuticals, 300 Third Street,Cambridge,USA	alnylam pharmaceuticals	4
+79A09AF2	762AB3ED	08A945A5	Department of Drug Discovery, Alnylam Pharmaceuticals Inc.,Cambridge,USA	alnylam pharmaceuticals	5
+80398F99	762AB3ED	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	6
+7D51F4DF	762AB3ED	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	4
+3CC0CB76	762AB3ED	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	11
+7CCE3356	762AB3ED	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	17
+7C2BDDE1	762AB3ED	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	34
+80EB6D8A	762AB3ED	08A945A5	bDepartment of Drug Discovery, Alnylam Pharmaceuticals, Cambridge, Massachusetts, USA	alnylam pharmaceuticals	7
+6D8AD27F	762AB3ED	08A945A5	3Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	16
+7C9ADBE0	7E7E5082	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	11
+804B8F08	7E7E5082	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	26
+7E26148C	7FC7D7F5	08A945A5	Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	14
+808E3F76	7FC7D7F5	08A945A5	Alnylam Pharmaceuticals, 300 3rd St, Cambridge, MA 02142, USA	alnylam pharmaceuticals	15
+80398F99	7FC7D7F5	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	5
+7CFC6CBB	7FC7D7F5	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	3
+8090877E	7FC7D7F5	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	6
+7E26148C	7CC533DD	08A945A5	Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	12
+7CE1784D	7B4A87E5	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	25
+7AF777B4	75D140FB	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	4
+7883D36A	29411E14	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	1
+8024CFCB	29411E14	08A945A5	#N#12Research, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	16
+782FCCE1	29411E14	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	4
+75ACEA04	29411E14	08A945A5	2Alnylam Pharmaceuticals Inc, Cambridge, MA	alnylam pharmaceuticals	8
+808E3F76	29411E14	08A945A5	Alnylam Pharmaceuticals, 300 3rd St, Cambridge, MA 02142, USA	alnylam pharmaceuticals	3
+7DF498F6	80D352BC	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	4
+7E26148C	81D22438	08A945A5	Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	6
+8090877E	8145167B	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	8
+7CE1784D	7D2A54A7	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	15
+7E81156B	787065AE	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	1
+7B06260D	787065AE	08A945A5	#N#            7Alnylam Pharmaceuticals Inc, Cambridge, MA, USA	alnylam pharmaceuticals	7
+329342F9	7C8AE66E	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	6
+79B1505B	7E3AB506	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	17
+7B471858	7E3AB506	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA;	alnylam pharmaceuticals	4
+804B8F08	7E3AB506	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	19
+7AAA7BC6	7E3AB506	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	4
+6014FF7A	7C15783E	08A945A5	‡Alnylam Pharmaceuticals, Cambridge, MA 02139	alnylam pharmaceuticals	9
+7D94860B	816DEC14	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	9
+7C2BDDE1	762FE570	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	10
+7CE1784D	762FE570	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	24
+78B2748E	162403AD	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	13
+804B8F08	0F297B2F	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	21
+78B2748E	7EA20E28	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	14
+7ACC7C31	0F297B2F	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	23
+75ACEA04	0F297B2F	08A945A5	2Alnylam Pharmaceuticals Inc, Cambridge, MA	alnylam pharmaceuticals	4
+7E26148C	0F297B2F	08A945A5	Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	15
+6D3CE5C6	0F297B2F	08A945A5	Alnylam Pharmaceuticals, Inc. Cambridge Massachusetts	alnylam pharmaceuticals	2
+7ACC7C31	22403857	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	19
+7C2BDDE1	795EC7E3	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	5
+7DF524EB	54521B1D	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	9
+7CC8EEF4	2DDA10FC	08A945A5	2Alnylam Pharmaceuticals, Inc., Cambridge, MA	alnylam pharmaceuticals	4
+7AAA7BC6	2DDA10FC	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	6
+7E282EB9	7656EF3B	08A945A5	4Alnylam Pharmaceuticals, Cambridge, MA 02142	alnylam pharmaceuticals	9
+79B1505B	2DDA10FC	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	15
+24F48975	7E29418A	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	7
+7ACC7C31	7BDC438D	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	16
+8090877E	7BDC438D	08A945A5	Alnylam Pharmaceuticals Inc.|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	3
+80D8D229	6E15B2EC	08A945A5	Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	3
+7D5A0921	6E15B2EC	08A945A5	Alnylam Pharmaceuticals Inc|Howard Hughes Medical Institute|Laboratory of RNA|Molecular Biology|Rockefeller University	alnylam pharmaceuticals	3
+5B346788	6E15B2EC	08A945A5	California Institute of Molecular Medicine, Ventura, USA|||Alnylam Pharmaceuticals, Cambridge, USA	alnylam pharmaceuticals	3
+7A146A77	6E15B2EC	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	7
+78BBB4BC	6E15B2EC	08A945A5	Alnylam Pharmaceuticals, 300 3rd Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	7
+808E3F76	6E15B2EC	08A945A5	Alnylam Pharmaceuticals, 300 3rd St, Cambridge, MA 02142, USA	alnylam pharmaceuticals	14
+7DEA0688	810B0D2D	08A945A5	Bioanalytical Sciences, Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	7
+7C9ADBE0	80F9E35A	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	8
+845CE51F	810B0D2D	08A945A5	Bioanalytical Sciences, Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	5
+7CE1784D	77D2F612	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	18
+6BCA9985	6626A6A9	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge 02142, MA, USA	alnylam pharmaceuticals	10
+75ACEA04	6626A6A9	08A945A5	2Alnylam Pharmaceuticals Inc, Cambridge, MA	alnylam pharmaceuticals	6
+6DE86022	6626A6A9	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	7
+7DF498F6	6626A6A9	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	5
+7BDC5F0F	6626A6A9	08A945A5	Alnylam Pharmaceuticals, 300 Third St. Cambridge, MA 02142, USA	alnylam pharmaceuticals	5
+805B222C	6626A6A9	08A945A5	5Alnylam Pharmaceuticals, Inc Cambridge MA United States	alnylam pharmaceuticals	12
+7BB2D518	841B9B0A	08A945A5	Alnylam Pharmaceuticals, 300 Third Street	alnylam pharmaceuticals	5
+77D4AFE5	49DB8A4D	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	1
+7ACC7C31	49DB8A4D	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	28
+808E3F76	49DB8A4D	08A945A5	Alnylam Pharmaceuticals, 300 3rd St, Cambridge, MA 02142, USA	alnylam pharmaceuticals	12
+7E26148C	49DB8A4D	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	18
+7C9ADBE0	7B748387	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	4
+7B471858	82E1F37A	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA;	alnylam pharmaceuticals	8
+7E4AF073	7DABFBA4	08A945A5	1Alnylam Pharmaceuticals, Incorporated, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	1
+329342F9	7F54F3A4	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	11
+24F48975	861F807E	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	6
+7DF498F6	861F807E	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	6
+775B57FB	861F807E	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	8
+775B57FB	848AB59E	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	9
+75ACEA04	77872022	08A945A5	2Alnylam Pharmaceuticals Inc, Cambridge, MA	alnylam pharmaceuticals	2
+77D5E5DC	77872022	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	6
+8024CFCB	77872022	08A945A5	#N#12Research, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	15
+7C9ADBE0	83D717B6	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	2
+7E4AF073	80300645	08A945A5	1Alnylam Pharmaceuticals, Incorporated, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	4
+8024CFCB	80300645	08A945A5	#N#15Research, Alnylam Pharmaceuticals Inc#N#	alnylam pharmaceuticals	26
+7D9101BD	7444BF43	08A945A5	1Clinical Research, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	12
+0626F717	7444BF43	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	7
+805B222C	7444BF43	08A945A5	5Alnylam Pharmaceuticals, Inc Cambridge MA United States	alnylam pharmaceuticals	14
+7CE1784D	7868CA47	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	21
+7D9101BD	7EA2F456	08A945A5	1Clinical Research, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	10
+78B2748E	7256D67B	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	1
+7A146A77	7868CA47	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	9
+7370011B	7EA2F456	08A945A5	1Research and Development, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	4
+6014FF7A	760B5178	08A945A5	‡Alnylam Pharmaceuticals, Cambridge, MA 02139	alnylam pharmaceuticals	8
+7B471858	7EEAF9F3	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA;	alnylam pharmaceuticals	5
+796724DA	777B35E6	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	3
+79647C3B	777B35E6	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	6
+7E26148C	777B35E6	08A945A5	Alnylam Europe AG, Fritz-Hornschuch-Str. 9, 95326 Kulmbach, Germany|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	7
+77D5E5DC	777B35E6	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	4
+7D21FF51	75DB461A	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, MA 02142, USA	alnylam pharmaceuticals	12
+7CCE3356	75BA70FE	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	10
+7B1E9D04	75BA70FE	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	10
+8024CFCB	76B22D53	08A945A5	#N#13Development, Alnylam Pharmaceuticals, Inc.#N#	alnylam pharmaceuticals	23
+7600B0F0	76B22D53	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	7
+24F48975	82B8C34C	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	11
+7DEBB89D	80D2F802	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts	alnylam pharmaceuticals	4
+5B54165F	80D2F802	08A945A5	Alnylam Pharmaceuticals Cambridge Massachusetts	alnylam pharmaceuticals	5
+804B8F08	7C24C898	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	3
+7ACC7C31	7C26BCCE	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	15
+8090877E	7DD47254	08A945A5	Alnylam Pharmaceuticals Inc.|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	13
+7E4AF073	7E9ED3F6	08A945A5	1Alnylam Pharmaceuticals, Incorporated, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	2
+7DF498F6	78106EAC	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	7
+7C2BDDE1	7E9ED3F6	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	25
+7370011B	7905AF1A	08A945A5	1Research and Development, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	2
+828198B9	7905AF1A	08A945A5	5. Alnylam Pharmaceuticals, Clinical Development, 02142, Cambridge, MA, USA	alnylam pharmaceuticals	5
+0626F717	7905AF1A	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	2
+7D9101BD	7905AF1A	08A945A5	1Clinical Research, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	9
+747914A7	7905AF1A	08A945A5	Alnylam Pharmaceuticals, Clinical Development, 02142, Cambridge, USA	alnylam pharmaceuticals	5
+6DE86022	7905AF1A	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	9
+7628DA5E	7A529544	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	12
+5A650D58	042168AB	08A945A5	4Alnylam, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	15
+7C2BDDE1	704CCAA1	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	32
+804B8F08	704CCAA1	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	20
+7656A266	704CCAA1	08A945A5	2Alnylam Pharmaceuticals, Boston, MA.	alnylam pharmaceuticals	4
+79B1505B	704CCAA1	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	16
+7CCE3356	8131CFBC	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	7
+805B222C	7CDBBDB3	08A945A5	4Alnylam Pharmaceuticals Cambridge MA United States	alnylam pharmaceuticals	10
+7B1E9D04	8131CFBC	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	7
+8024CFCB	7CDBBDB3	08A945A5	#N#11Clinical, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	12
+80EB6D8A	7687018C	08A945A5	bDepartment of Drug Discovery, Alnylam Pharmaceuticals, Cambridge, Massachusetts, USA	alnylam pharmaceuticals	2
+7D88A0BA	7687018C	08A945A5	Department of Drug Discovery, Alnylam Pharmaceuticals Cambridge Massachusetts|||Ontorii, Inc. Boston Massachusetts	alnylam pharmaceuticals	1
+7B1E9D04	635E1508	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	13
+6D8AD27F	635E1508	08A945A5	3Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	4
+7D21FF51	635E1508	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, MA 02142, USA	alnylam pharmaceuticals	13
+7CCE3356	635E1508	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	13
+7B471858	635E1508	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA;	alnylam pharmaceuticals	1
+24F48975	635E1508	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	2
+7CFC6CBB	85821486	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)|||Present address: Roche Kulmbach GmbH, Fritz‐Hornschuch‐Strasse, 95326 Kulmbach (Germany)	alnylam pharmaceuticals	6
+7DF524EB	834A1821	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	8
+7D94860B	6D2FDE9E	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	10
+78B2748E	834A1821	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	3
+3CC0CB76	7F7C2273	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	15
+329342F9	7F7C2273	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	1
+8128836B	7FD66BC2	08A945A5	Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	2
+7CE1784D	7FD66BC2	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	28
+7E51DB32	79DB70A6	08A945A5	Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	7
+8024CFCB	817AF583	08A945A5	#N#12Research, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	18
+7E81156B	48B3D1CC	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	2
+7E26148C	48B3D1CC	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	13
+7CCE3356	7ECCA85E	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	12
+24F48975	7ECCA85E	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	10
+7B1E9D04	7ECCA85E	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	12
+7C9ADBE0	7F0E9539	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	1
+78B2748E	7F391649	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	18
+7E26148C	7A2EE114	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Europe AG, Fritz-Hornschuch-Str. 9, 95326 Kulmbach, Germany	alnylam pharmaceuticals	24
+7A146A77	7A2EE114	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	8
+7991BABA	7A2EE114	08A945A5	Institute of Molecular Systems Biology|Swiss Federal Institute of Technology|HPT E 73|||Alnylam Pharmaceuticals Inc., 300 Third Street	alnylam pharmaceuticals	10
+7E81156B	7A2EE114	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	6
+8024CFCB	811D1758	08A945A5	#N#11Clinical, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	13
+7CFC6CBB	7D3DEDE2	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	4
+7C2BDDE1	7D3DEDE2	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	13
+7ACC7C31	7D3DEDE2	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	22
+3CC0CB76	65297AE4	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	8
+7C2BDDE1	76722914	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	11
+7991BABA	084B6CD6	08A945A5	AlnylamPharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 Third Street	alnylam pharmaceuticals	3
+7656A266	084B6CD6	08A945A5	2Alnylam Pharmaceuticals, Boston, MA.	alnylam pharmaceuticals	5
+329342F9	084B6CD6	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	3
+7D94860B	084B6CD6	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	13
+6D8AD27F	084B6CD6	08A945A5	3Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	14
+7DF498F6	084B6CD6	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	10
+7CFC6CBB	084B6CD6	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	2
+7E26148C	084B6CD6	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Europe AG, Fritz-Hornschuch-Str. 9, 95326 Kulmbach, Germany	alnylam pharmaceuticals	2
+78D66727	084B6CD6	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142, USA|||Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	8
+7CDE6D91	084B6CD6	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge MA 02142, USA	alnylam pharmaceuticals	10
+7F416563	084B6CD6	08A945A5	1Alnylam Pharmaceuticals, Cambridge, Massachusetts 02142	alnylam pharmaceuticals	1
+7E26148C	5C0B55EE	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Europe AG, Fritz-Hornschuch-Str. 9, 95326 Kulmbach, Germany	alnylam pharmaceuticals	22
+76633797	5C0B55EE	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	11
+7D94860B	8127B9DA	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	7
+7B1E9D04	71F13114	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	8
+24F48975	71F13114	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	9
+77D5E5DC	7666049C	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	8
+7BA26089	7666049C	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	1
+7CCE3356	71F13114	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	8
+3CC0CB76	71F13114	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	2
+7C9ADBE0	71F13114	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	9
+7E81156B	7666049C	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	5
+7B471858	78DEC209	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA;	alnylam pharmaceuticals	6
+7EE15AD8	7F14D821	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	6
+3CC0CB76	7F14D821	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	3
+7ACC7C31	7EF54BBD	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	10
+7C2BDDE1	7EF54BBD	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	26
+752292A1	7EF54BBD	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	8
+77D5E5DC	7EF54BBD	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	3
+78BBB4BC	78DA27DD	08A945A5	Alnylam Pharmaceuticals, 300 3rd Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	9
+8024CFCB	7F99023E	08A945A5	#N#12Research, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	19
+7DF498F6	7F99023E	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	2
+77D5E5DC	79DF6F13	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	10
+7600B0F0	79DF6F13	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	16
+0626F717	79DF6F13	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	6
+3CC0CB76	79DF6F13	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	6
+7D9101BD	79DF6F13	08A945A5	1Clinical Research, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	14
+805B222C	79DF6F13	08A945A5	5Alnylam Pharmaceuticals, Inc Cambridge MA United States	alnylam pharmaceuticals	15
+716F1EEA	79DF6F13	08A945A5	4Alnylam Pharmaceuticals, Cambridge, Massachusetts	alnylam pharmaceuticals	3
+6BCA9985	79DF6F13	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge 02142, MA, USA	alnylam pharmaceuticals	11
+7370011B	79DF6F13	08A945A5	1Research and Development, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	7
+7B2D834A	79DF6F13	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	1
+329342F9	79DF6F13	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	12
+716F1EEA	7B9ACA34	08A945A5	4Alnylam Pharmaceuticals, Cambridge, Massachusetts	alnylam pharmaceuticals	2
+752292A1	7B9ACA34	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	7
+77D5E5DC	7B9ACA34	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	2
+7370011B	7B9ACA34	08A945A5	1Research and Development, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	3
+805B222C	7B9ACA34	08A945A5	5Alnylam Pharmaceuticals, Inc Cambridge MA United States	alnylam pharmaceuticals	13
+7D9101BD	7B9ACA34	08A945A5	1Clinical Research, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	11
+8024CFCB	7B9ACA34	08A945A5	#N#11Clinical, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	22
+0626F717	7B9ACA34	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	4
+7600B0F0	7B9ACA34	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	3
+8072CE06	8187152F	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	8
+8090877E	0EACA2BB	08A945A5	Alnylam Pharmaceuticals Inc.|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	9
+7B10EC20	0EA28A7D	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	8
+7B2D834A	4926E2E1	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	7
+79B1505B	0EA28A7D	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	24
+8090877E	0EA28A7D	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	12
+78B2748E	80AE4A7E	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	2
+329342F9	7D962A2B	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	10
+7DF524EB	78556ED5	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	10
+78B2748E	78556ED5	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	23
+805B222C	7EBB04FF	08A945A5	5Alnylam Pharmaceuticals, Inc Cambridge MA United States	alnylam pharmaceuticals	11
+8090877E	7924FC64	08A945A5	Alnylam Pharmaceuticals Inc.|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	11
+7ACC7C31	7924FC64	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	30
+7600B0F0	80A68AD0	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	6
+7FBAF669	0870FBC4	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, MA, USA	alnylam pharmaceuticals	28
+0626F717	0870FBC4	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	5
+7628DA5E	8180A586	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	13
+7370011B	0870FBC4	08A945A5	1Research and Development, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	5
+329342F9	858CEFB3	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	4
+6DE86022	0870FBC4	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	8
+7370011B	858CEFB3	08A945A5	1Research and Development, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	1
+7B2D834A	0870FBC4	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	2
+0626F717	858CEFB3	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	1
+8024CFCB	0870FBC4	08A945A5	#N#16Clinical Development, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	27
+828198B9	0870FBC4	08A945A5	5. Alnylam Pharmaceuticals, Clinical Development, 02142, Cambridge, MA, USA	alnylam pharmaceuticals	7
+6BCA9985	0870FBC4	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge 02142, MA, USA	alnylam pharmaceuticals	12
+7D9101BD	0870FBC4	08A945A5	1Clinical Research, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	13
+805B222C	0870FBC4	08A945A5	4Alnylam Pharmaceuticals Cambridge MA United States	alnylam pharmaceuticals	16
+7B1E9D04	7E22146F	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	2
+7CCE3356	7E22146F	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	2
+80F9D9B3	789B0ACC	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	9
+7991BABA	85C740D7	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street	alnylam pharmaceuticals	16
+7E26148C	85C740D7	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	21
+7F38005E	789B0ACC	08A945A5	#N#9Alnylam Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts, 02446, UNITED STATES#N#	alnylam pharmaceuticals	9
+8128836B	495E5A87	08A945A5	Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	3
+7E8F63AB	789B0ACC	08A945A5	#N#2Alnylam Pharmaceuticals, Cambridge, MA#N#	alnylam pharmaceuticals	14
+640A9EE1	789B0ACC	08A945A5	3Alnylam Pharmaceuticals, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	5
+7C2BDDE1	80FEC8D9	08A945A5	Alnylam Pharmaceuticals, Cambridge,These authors contributed equally to this work.	alnylam pharmaceuticals	41
+75ACEA04	80ADE1D0	08A945A5	2Alnylam Pharmaceuticals Inc, Cambridge, MA	alnylam pharmaceuticals	7
+77D5E5DC	76364189	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	5
+7E26148C	76364189	08A945A5	Alnylam Europe AG, Fritz-Hornschuch-Str. 9, 95326 Kulmbach, Germany|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	10
+8024CFCB	7A6E60EB	08A945A5	#N#13Development, Alnylam Pharmaceuticals, Inc.#N#	alnylam pharmaceuticals	24
+7B2D834A	7A6E60EB	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	3
+7883D36A	6CC03989	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	4
+76483690	6CC03989	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	3
+7ACC7C31	6CC03989	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	26
+7B2D834A	6CC03989	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	5
+7CE1784D	7F58C6F1	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	2
+7CE1784D	767BEA7F	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	6
+7B1E9D04	6180175C	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	1
+7CCE3356	6180175C	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	1
+7D94860B	6180175C	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	11
+7E26148C	6180175C	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Europe AG, Fritz-Hornschuch-Str. 9, 95326 Kulmbach, Germany	alnylam pharmaceuticals	16
+8090877E	6180175C	08A945A5	Alnylam Pharmaceuticals Inc.|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	7
+757E58D3	6180175C	08A945A5	Drug Discovery, Alnylam Pharmaceuticals, 300 Third Street,Cambridge,USA	alnylam pharmaceuticals	3
+7CFC6CBB	6180175C	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	14
+7ACC7C31	6180175C	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	25
+7D5A0921	6180175C	08A945A5	Alnylam Pharmaceuticals Inc|Howard Hughes Medical Institute|Laboratory of RNA|Molecular Biology|Rockefeller University	alnylam pharmaceuticals	4
+80D8D229	6180175C	08A945A5	Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA|||Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	4
+78B2748E	72DFC26E	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	5
+7CE1784D	06BB6B58	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	4
+7C2BDDE1	038C9FEE	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	23
+758B0A78	7EA0F341	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, Massachusetts	alnylam pharmaceuticals	1
+3CC0CB76	80EA517E	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	7
+7B1E9D04	80EA517E	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	16
+7CFC6CBB	80EA517E	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	9
+6D8AD27F	80EA517E	08A945A5	3Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	15
+7CCE3356	80EA517E	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	16
+7D94860B	80EA517E	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	14
+7C2BDDE1	80EA517E	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	22
+24F48975	80EA517E	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	12
+79B1505B	77387E9E	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	4
+80F9D9B3	77387E9E	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	7
+7E4A3F00	82277F62	08A945A5	Alnylam Pharmaceuticals, Commercial, 02142, Cambridge, USA	alnylam pharmaceuticals	2
+7CC408D5	77387E9E	08A945A5	§Alnylam Pharmaceuticals, Cambridge, Massachusetts 02142	alnylam pharmaceuticals	4
+7E282EB9	77387E9E	08A945A5	4Alnylam Pharmaceuticals, Cambridge, MA 02142	alnylam pharmaceuticals	8
+7AAA7BC6	77387E9E	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	2
+5B3B88BA	77387E9E	08A945A5	#N##TAB##TAB##TAB##TAB#2 Alnylam Pharmaceuticals, United States#N##TAB##TAB##TAB#	alnylam pharmaceuticals	4
+7E12CEC4	021E2BB5	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	6
+7B1E9D04	772D5F9B	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	14
+7ACC7C31	772D5F9B	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	11
+6D3CE5C6	7E2B074C	08A945A5	Alnylam Pharmaceuticals, Inc. Cambridge Massachusetts	alnylam pharmaceuticals	5
+80F9D9B3	772D5F9B	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	8
+7F38005E	772D5F9B	08A945A5	#N#8Alnylam Pharmaceuticals, 300 Third St, Cambridge, Massachusetts, 01242, UNITED STATES#N#	alnylam pharmaceuticals	8
+7C9ADBE0	7E2B074C	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	10
+7A735A38	7E2B074C	08A945A5	4Alnylam Pharmaceuticals, Inc., Cambridge, MA	alnylam pharmaceuticals	8
+24F48975	772D5F9B	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	1
+3CC0CB76	772D5F9B	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	1
+640A9EE1	772D5F9B	08A945A5	3Alnylam Pharmaceuticals, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	4
+7E8F63AB	772D5F9B	08A945A5	#N#2Alnylam Pharmaceuticals, Cambridge, MA#N#	alnylam pharmaceuticals	13
+7E282EB9	772D5F9B	08A945A5	4Alnylam Pharmaceuticals, Cambridge, MA 02142	alnylam pharmaceuticals	7
+7CCE3356	772D5F9B	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	14
+329342F9	7A850B89	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	7
+24F48975	82BB1D07	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	14
+7CFC6CBB	7F49DA6A	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	7
+7D9101BD	82BB1D07	08A945A5	1Clinical Research, Alnylam Pharmaceuticals, Cambridge, MA, United States	alnylam pharmaceuticals	1
+7C2BDDE1	56C6589F	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	30
+7ACC7C31	56C6589F	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	12
+7B1E9D04	7182F6B1	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	11
+75ACEA04	7182F6B1	08A945A5	2Alnylam Pharmaceuticals Inc, Cambridge, MA	alnylam pharmaceuticals	5
+24F48975	7182F6B1	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	5
+79B1505B	7182F6B1	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	14
+7AAA7BC6	7182F6B1	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	5
+7CCE3356	7182F6B1	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	11
+78B2748E	7182F6B1	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	19
+7C2BDDE1	5C1BD1EE	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	35
+7C2BDDE1	851DB81E	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	18
+7CFC6CBB	851DB81E	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	10
+7ACC7C31	851DB81E	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	21
+77D5E5DC	851DB81E	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	7
+6D8AD27F	7DFE0675	08A945A5	3Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	12
+7B471858	7DFE0675	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA;	alnylam pharmaceuticals	9
+24F48975	7DFE0675	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	16
+6D3CE5C6	7DFE0675	08A945A5	Alnylam Pharmaceuticals, Inc. Cambridge Massachusetts	alnylam pharmaceuticals	4
+7E282EB9	7DFE0675	08A945A5	4Alnylam Pharmaceuticals, Cambridge, MA 02142	alnylam pharmaceuticals	10
+7CCE3356	7DFE0675	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	15
+7B1E9D04	7DFE0675	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	15
+3CC0CB76	7DFE0675	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	13
+7C9BBC3B	862AD35A	08A945A5	Alnylam Pharmaceuticals, Inc., 300 Third Street, 3rd Floor, Cambridge, MA 02142, USA	alnylam pharmaceuticals	2
+796724DA	7A6EEA32	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	4
+78B2748E	7A6EEA32	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	7
+7CCE3356	80FD14FB	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	9
+7B1E9D04	80FD14FB	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	9
+3CC0CB76	7C858F8F	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	10
+775B57FB	81343AF8	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	12
+7CCE3356	81343AF8	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	6
+7B1E9D04	81343AF8	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	6
+78B2748E	7C858F8F	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	17
+7B471858	7C858F8F	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA;	alnylam pharmaceuticals	7
+7D94860B	78E247E6	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	1
+7ACC7C31	78E247E6	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	17
+7B1E9D04	78E247E6	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	3
+7C2BDDE1	78E247E6	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	20
+8090877E	78E247E6	08A945A5	Alnylam Pharmaceuticals Inc.|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	4
+7C9ADBE0	7F032173	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	7
+7CCE3356	78E247E6	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	3
+757E58D3	78E247E6	08A945A5	Drug Discovery, Alnylam Pharmaceuticals, 300 Third Street,Cambridge,USA	alnylam pharmaceuticals	2
+7DF498F6	7D30D384	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	3
+7C9ADBE0	7DBF57F7	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	6
+7C2BDDE1	402D1BB3	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	29
+7590DE6A	862C80B5	08A945A5	2Alnylam Pharmaceuticals Inc, Cambridge, MA	alnylam pharmaceuticals	3
+7AAA7BC6	854A30FC	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	7
+24F48975	7F74F2C5	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	3
+78B2748E	7F48B31B	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	15
+7ACC7C31	620720F6	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	24
+7D94860B	4B5F0956	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	8
+757E58D3	4B5F0956	08A945A5	Drug Discovery, Alnylam Pharmaceuticals, 300 Third Street,Cambridge,USA	alnylam pharmaceuticals	1
+7EE15AD8	84C2B953	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	7
+7D51F4DF	7BC007B5	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	3
+78B2748E	7BC007B5	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	16
+7E26148C	7BC007B5	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Europe AG, Fritz-Hornschuch-Str. 9, 95326 Kulmbach, Germany	alnylam pharmaceuticals	4
+7CFC6CBB	7BC007B5	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	8
+24F48975	7BC007B5	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	8
+808E3F76	7BC007B5	08A945A5	Alnylam Pharmaceuticals, 300 3rd St, Cambridge, MA 02142, USA	alnylam pharmaceuticals	13
+7CCE3356	7BC007B5	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	4
+7CC8EEF4	7BC007B5	08A945A5	2Alnylam Pharmaceuticals, Inc., Cambridge, MA	alnylam pharmaceuticals	3
+3CC0CB76	7BC007B5	08A945A5	4Alnylam Pharmaceuticals, Inc., Cambridge, MA	alnylam pharmaceuticals	9
+7B10EC20	7BC007B5	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	5
+7B1E9D04	7BC007B5	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	4
+329342F9	7E789922	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	5
+7991BABA	85706DD4	08A945A5	AlnylamPharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 Third Street	alnylam pharmaceuticals	15
+78D66727	85706DD4	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142, USA|||Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	17
+7B471858	85706DD4	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA;	alnylam pharmaceuticals	10
+7CE1784D	85706DD4	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	26
+7883D36A	85706DD4	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	3
+804B8F08	85706DD4	08A945A5	Alnylam Pharmaceuticals, Inc.	alnylam pharmaceuticals	25
+7F152C13	85706DD4	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	13
+7CFC6CBB	7CB7A28A	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)|||Present address: Roche Kulmbach GmbH, Fritz‐Hornschuch‐Strasse, 95326 Kulmbach (Germany)	alnylam pharmaceuticals	5
+7ACDBCD6	845C7CD4	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of#N#                    America	alnylam pharmaceuticals	2
+78B2748E	845C7CD4	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	11
+7D94860B	77FBD602	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	15
+7DF498F6	82AAA7B2	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	9
+8024CFCB	80E7D5BB	08A945A5	#N#12Research, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	14
+78B2748E	7D7292C0	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	20
+7DF498F6	7D7292C0	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	12
+7600B0F0	7D7292C0	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	15
+7B10EC20	0D3C7FB0	08A945A5	Alnylam Pharmaceuticals, Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	6
+7B2D834A	7D7292C0	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	6
+3CC0CB76	7D7292C0	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	14
+7C2BDDE1	84E85B91	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	28
+7DF498F6	81483814	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	8
+8090877E	8164D560	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc.	alnylam pharmaceuticals	5
+78B2748E	752B04A0	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	6
+775B57FB	0EA4B1C0	08A945A5	Alnylam Pharmaceuticals, Inc., Cambridge, Massachusetts, United States of America	alnylam pharmaceuticals	10
+7E26148C	8490FDFA	08A945A5	Alnylam Europe AG, Fritz-Hornschuch-Str. 9, 95326 Kulmbach, Germany|||Alnylam Pharmaceuticals Inc	alnylam pharmaceuticals	19
+7B2D834A	77BAEADE	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	4
+7DF498F6	77BAEADE	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	11
+24F48975	77BAEADE	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	4
+329342F9	77BAEADE	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	9
+6DE86022	7E5CFE8D	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	10
+8024CFCB	77BAEADE	08A945A5	#N#11Clinical, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	20
+828198B9	7E5CFE8D	08A945A5	5. Alnylam Pharmaceuticals, Clinical Development, 02142, Cambridge, MA, USA	alnylam pharmaceuticals	6
+7C9ADBE0	824A0567	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	5
+78B2748E	7F3B4439	08A945A5	Alnylam Pharmaceuticals Cambridge MA	alnylam pharmaceuticals	4
+75E5B0BD	84714B80	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+7ECEBD23	1674B08F	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	3
+5E5AEFD9	1674B08F	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth Street, Claremont, California 91711	harvey mudd college	5
+7962EC3A	1674B08F	07F5B6CA	Department of Physics, 224 East Twelfth St., Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	6
+76FD2020	7EF4D3F4	07F5B6CA	Dep. Chem., Harvey Mudd Coll., Claremont, CA 91711, USA	harvey mudd college	2
+58E6E1EB	7F606B4B	07F5B6CA	Department of Chemistry, Harvey Mudd College Claremont, California, 91711	harvey mudd college	1
+788884F0	84C7883A	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7B5D22E6	85F4773B	07F5B6CA	Harvey Mudd College (USA)	harvey mudd college	5
+80DBE914	84DE93EC	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	7
+7DFE80BC	79EA4AAD	07F5B6CA	Harvey Mudd Coll., Claremont, CA	harvey mudd college	5
+795CD66F	7A1E44D5	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA, 91711, USA|||Department of Chemistry, Harvey Mudd College, Claremont, CA, 91711, USA	harvey mudd college	1
+815D1970	84F29F2E	07F5B6CA	Department of Engineering, Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+77866EAC	80DF0336	07F5B6CA	Harvey Mudd College (United States)	harvey mudd college	3
+7D0FC79A	7009D0FA	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7F402115	856AC9E1	07F5B6CA	Department of Engineering, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+797DA61B	80F03776	07F5B6CA	Harvey Mudd College, 91711 Claremont, CA	harvey mudd college	2
+7E0B6837	8459381F	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	4
+7CA1319E	0CEABCC0	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California 91711, USA	harvey mudd college	5
+5A2146E7	7D6CBFD8	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, CA, USA|||Department of Physics, Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+75B1D876	7DE4FB13	07F5B6CA	Department of Engineering Harvey Mudd College	harvey mudd college	2
+7680C0EA	764385CE	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth St., Claremont, California 91711	harvey mudd college	4
+5E5AEFD9	764385CE	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth Street, Claremont, California 91711	harvey mudd college	8
+764CE423	7DE4FB13	07F5B6CA	301 E. 12th Street, Department of Engineering, Harvey Mudd College, Claremont, CA 91711.	harvey mudd college	1
+7A04BED2	7DE4FB13	07F5B6CA	Harvey Mudd College|||Harvey Mudd College|||Harvey Mudd College, 301 E. 12th St., Claremont, California 91711|||Harvey Mudd College, 301 E. 12th St., Claremont, California 91711	harvey mudd college	1
+7BFB2BBD	764385CE	07F5B6CA	Physics Department, Harvey Mudd College, 301 E. 12th Street, Claremont, CA 91711, USA	harvey mudd college	5
+79172AB2	7DE2BE88	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, California 91711	harvey mudd college	3
+5E16DD66	764385CE	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	3
+7962EC3A	764385CE	07F5B6CA	Department of Physics, 224 East Twelfth St., Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	1
+798ABF80	8293A065	07F5B6CA	Harvey Mudd College (USA)	harvey mudd college	5
+7926EC06	764385CE	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA	harvey mudd college	6
+792CDC12	764385CE	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth Street, Claremont, California 91711.	harvey mudd college	5
+782A77A3	76AB824D	07F5B6CA	Physics Department, Harvey Mudd College, 301 Platt Blvd., Claremont, California 91711, USA	harvey mudd college	4
+7926EC06	76AB824D	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA	harvey mudd college	2
+782A77A3	764385CE	07F5B6CA	Physics Department, Harvey Mudd College, 301 Platt Blvd., Claremont, California 91711, USA	harvey mudd college	10
+760E0AD7	7DC24503	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, United States|||Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, United States	harvey mudd college	4
+7A0EFE94	764385CE	07F5B6CA	Harvey Mudd College, Claremont, California	harvey mudd college	6
+7F0F293E	84B163AF	07F5B6CA	Harvey Mudd College, 301 Platt Blvd, Claremont, CA 91711, USA	harvey mudd college	5
+5A515F9C	7FA561BF	07F5B6CA	Department of Engineering, Harvey Mudd College, CA	harvey mudd college	1
+75D58301	80674397	07F5B6CA	Harvey Mudd College in Claremont, Calif. and York University in Ontario, Canada#TAB#	harvey mudd college	1
+7C5D7A3C	84E6D776	07F5B6CA	Department of Biology|Harvey Mudd College|||Department of Biology|Harvey Mudd College	harvey mudd college	1
+7EE8B7CB	8105E4A7	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+76F6C4F7	84F55B53	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+7ECEB907	857A3FC3	07F5B6CA	Department of Biology, Harvey Mudd  College, 301 E. 12th Street, Claremont, CA 91711-5990,  U.S.A.	harvey mudd college	2
+7636E6E3	8105E4A7	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+7F72B48A	814A930C	07F5B6CA	Harvey Mudd College (USA)	harvey mudd college	4
+5D29CCF5	7D29D3FC	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+79277433	8183DF98	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	5
+7707C552	7D85F112	07F5B6CA	Biology Department, Harvey Mudd College, Claremont, California, United States of America	harvey mudd college	1
+7C085B44	8183DF98	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	4
+763A8486	7D58866C	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, California	harvey mudd college	2
+7E80CC84	765B93CB	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, California, 91711, U. S. A.	harvey mudd college	1
+77A8DC8C	83337AF6	07F5B6CA	Department of Computer Science|Harvey Mudd College|||Department of Computer Science|Harvey Mudd College	harvey mudd college	3
+81196639	848ABAF5	07F5B6CA	Harvey Mudd College, 301 Platt Blvd. Claremont, CA 91711, USA	harvey mudd college	4
+7BDB515B	8224C279	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+75D8FAB2	77AAD13B	07F5B6CA	Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+7B0648DD	84A3248E	07F5B6CA	Harvey Mudd College, Randall Davis, MIT	harvey mudd college	2
+5D29CCF5	7776482D	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+79AB03B5	7EFE1C72	07F5B6CA	Department of Physics, Harvey Mudd College,#N#Claremont, CA, USA	harvey mudd college	3
+5A2146E7	7EFE1C72	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, CA, USA|||Department of Physics, Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+7927455D	7FADAB05	07F5B6CA	Harvey Mudd College Department of Mathematics Claremont California	harvey mudd college	2
+79C9F999	7F1331A0	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+7E02E8E7	84CCC916	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+7E7FD8CE	7FDFEA5D	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7FB12564	7FDFEA5D	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, California, 91711	harvey mudd college	3
+7B187592	84DFEBC8	07F5B6CA	Harvey Mudd College, Claremont, California 91711University of Trondheim, 7000 Trondheim, #N#NorwayBeckman Laser Institute and Medical Clinic, University of California, Irvine, Irvine, California 92715Harvey Mudd College, Claremont, California 91711Beckman Laser Institute and Medical Clinic, University of California, Irvine, Irvine, California 92715	harvey mudd college	4
+8126CA03	8012B1CB	07F5B6CA	Harvey Mudd College of Engineering and Science|||Harvey Mudd College of Engineering and Science	harvey mudd college	1
+0757D4EE	7FD942FE	07F5B6CA	Department of Biology, Harvey Mudd College, 301 Platt Blvd, Claremont California 91711	harvey mudd college	10
+80983855	7C29CC27	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	7
+0963C7F3	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+07E88354	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+779717F8	74441291	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+7FCF0D0A	84F39A00	07F5B6CA	Dept. of Electr. Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+00F17100	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+06047B6E	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+81A7B451	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7BD833E8	74441291	07F5B6CA	Department of Mathematics|Harvey Mudd College	harvey mudd college	1
+78A0F7EA	74441291	07F5B6CA	Harvey Mudd College|||Harvey Mudd College	harvey mudd college	1
+5A090E39	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+75C5DA91	74441291	07F5B6CA	Department of Mathematics, Harvey Mudd College Claremont, CA, 91711	harvey mudd college	1
+5F2E6DA6	7C29CC27	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+7C6E34A4	74441291	07F5B6CA	Department of Mathematics|Harvey Mudd College	harvey mudd college	1
+772B68E3	74441291	07F5B6CA	Harvey Mudd College Department of Mathematics 91711 Claremont CA USA|||Harvey Mudd College Department of Mathematics 91711 Claremont CA USA	harvey mudd college	1
+30DA1B28	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+2C7C7ED1	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+2DCA4F01	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7F68C3B2	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7A0BB86B	74441291	07F5B6CA	Department of Mathematics|Harvey Mudd College	harvey mudd college	1
+79E9D1B6	74441291	07F5B6CA	Harvey Mudd College, Claremont, California	harvey mudd college	2
+7D25761F	85FF6B22	07F5B6CA	Comput. Sci. Dept., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	3
+5B4ACF06	74441291	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+06F6DD45	85850A44	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7E863944	7D428DD4	07F5B6CA	Harvey Mudd College (United States)	harvey mudd college	7
+782A77A3	7D355CAE	07F5B6CA	Physics Department, Harvey Mudd College, 301 Platt Blvd., Claremont, California 91711, USA	harvey mudd college	1
+7ED844E7	7D355CAE	07F5B6CA	Harvey Mudd Coll., Claremont, CA	harvey mudd college	1
+7F0F293E	77584057	07F5B6CA	Harvey Mudd College, 301 Platt Blvd, Claremont, CA 91711, USA	harvey mudd college	3
+71AE4BAC	819BCB4E	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	5
+78B9DC88	832E1C8B	07F5B6CA	and Physics Departments Harvey Mudd College, 301 East Twelfth Street, Claremont, CA 91711 USA	harvey mudd college	5
+76623749	7E83539E	07F5B6CA	Department of Mathematics Harvey Mudd College Claremont California USA	harvey mudd college	1
+7D5A11B6	7E83539E	07F5B6CA	Harvey Mudd College, Claremont, California, USA|||Harvey Mudd College, Claremont, California, USA	harvey mudd college	2
+76A4B10E	7E83539E	07F5B6CA	Harvey Mudd College, Claremont, CA 91711, USA|||Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	1
+7A7F3DDB	7E83539E	07F5B6CA	Department of Mathematics Harvey Mudd College 91711 Claremont California USA	harvey mudd college	1
+6FA86603	7E83539E	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+0694EB0B	7E83539E	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+6E492DCC	7E83539E	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+0957FFEE	7E83539E	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7CB4C771	7E83539E	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7A44A4BD	7E83539E	07F5B6CA	Harvey Mudd College Claremont California USA	harvey mudd college	1
+766A70FF	7E83539E	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+79CF9FF3	7E83539E	07F5B6CA	Harvey Mudd College, Claremont, CA 91711, USA|||Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	1
+7B793D73	7E83539E	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+79610837	7E8C2A74	07F5B6CA	Department of Engineering Harvey Mudd College Claremont, CA, USA	harvey mudd college	3
+76BC54E6	7E8C2A74	07F5B6CA	Harvey Mudd College 301 Platt Blvd., Claremont, CA, USA	harvey mudd college	1
+76A8B636	7F1E29C7	07F5B6CA	Physics Department|Harvey Mudd College|||Physics Department|Harvey Mudd College	harvey mudd college	4
+758A41EA	79E993A9	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+76232EBD	80F14FA6	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, CA 91711	harvey mudd college	3
+7B8BB170	8426ABF6	07F5B6CA	Harvey Mudd Coll., Claremont, CA	harvey mudd college	2
+7F217972	85793181	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	4
+79979C99	8426ABF6	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+80A04E8E	85041814	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	3
+76FD2020	80C0E251	07F5B6CA	Dep. Chem., Harvey Mudd Coll., Claremont, CA 91711, USA	harvey mudd college	1
+0757D4EE	8129D27D	07F5B6CA	Department of Biology, Harvey Mudd College, 301 Platt Blvd, Claremont California 91711	harvey mudd college	15
+586C1EAF	14C35BA5	07F5B6CA	Harvey Mudd College, Claremont, California|||Harvey Mudd College, Claremont, California	harvey mudd college	3
+7C511756	81302DD7	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California	harvey mudd college	1
+763A8486	276F7AEF	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, California	harvey mudd college	3
+7F3155E5	276F7AEF	07F5B6CA	Dep. Chem., Harvey Mudd Coll., Claremont, CA 91711, USA	harvey mudd college	1
+792D7774	276F7AEF	07F5B6CA	Chemistry Department, Harvey Mudd College, Claremont, California, 91711|||Chemistry Department, Harvey Mudd College, Claremont, California, 91711	harvey mudd college	6
+7FCEFF3F	774B710C	07F5B6CA	Biology Department, Harvey Mudd College, Claremont, California, United States of America	harvey mudd college	8
+788884F0	84A197FA	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+6E4643CD	02A2A84E	07F5B6CA	Harvey Mudd College	harvey mudd college	4
+792CDC12	7E3E7FD0	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth Street, Claremont, California 91711.	harvey mudd college	4
+7928D18E	7E9115AD	07F5B6CA	Harvey Mudd College	harvey mudd college	7
+7FCEFF3F	7EA72E03	07F5B6CA	Biology Department, Harvey Mudd College, Claremont, California, United States of America	harvey mudd college	4
+77C342A5	7EA72E03	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7D7A8C2F	7E701686	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+7E313641	7F9CCE28	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	16
+806193F5	84BE2D83	07F5B6CA	Harvey Mudd College, 301 Platt Boulevard, Claremount, CA (USA)	harvey mudd college	3
+70657569	83BF6A34	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+7928D18E	83A2C373	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+798ABF80	526F2A14	07F5B6CA	Harvey Mudd College (USA)	harvey mudd college	7
+7422A0C1	855F6D3C	07F5B6CA	Department of Mathematics, Harvey Mudd College, 301 Platt Boulevard, Claremont, CA 91711-5901, United States	harvey mudd college	2
+7F3155E5	7D1ECA58	07F5B6CA	Dep. Chem., Harvey Mudd Coll., Claremont, CA 91711, USA	harvey mudd college	2
+805EAB01	8471EB9B	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	2
+79247B3E	0268BA9B	07F5B6CA	Harvey Mudd College, 340 East Foothill Boulevard, Claremont, CA 91711	harvey mudd college	2
+5CCFD76F	0268BA9B	07F5B6CA	Harvey Mudd College|||Harvey Mudd College	harvey mudd college	2
+7D25761F	85A7283B	07F5B6CA	Comput. Sci. Dept., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+7F4F2B0D	0F5A062B	07F5B6CA	1Department of Computer Science, Harvey Mudd College, Claremont, CA 91711, 2Department of Electrical Engineering and Computer Science, MIT, Cambridge, MA 02139, 3Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269 and 4Broad Institute, Cambridge, MA 02142, USA|||1Department of Computer Science, Harvey Mudd College, Claremont, CA 91711, 2Department of Electrical Engineering and Computer Science, MIT, Cambridge, MA 02139, 3Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269 and 4Broad Institute, Cambridge, MA 02142, USA	harvey mudd college	4
+7F3C2952	7EB51E89	07F5B6CA	Harvey Mudd College, The Claremont Colleges, Claremont, CA 91711, USA	harvey mudd college	3
+7B2411B1	783E84AC	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	2
+77AAD6F8	84CA7D3C	07F5B6CA	Harvey Mudd College/Claremont McKenna College, Claremont, CA, USA#TAB#	harvey mudd college	1
+83692C15	7978233F	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7B96105B	7978233F	07F5B6CA	Harvey Mudd College (United States)	harvey mudd college	4
+5AEEB55E	7A7BBFEF	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+7EE86B7C	80E8E0C8	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California, United States of America	harvey mudd college	28
+80CE8F23	80E8E0C8	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California	harvey mudd college	3
+781126A1	80E8E0C8	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California 91711	harvey mudd college	1
+7950802B	80E8E0C8	07F5B6CA	Department of Biology, Harvey Mudd College, 301 East 12th Street, Claremont, California 91711‐5990, USA	harvey mudd college	2
+0757D4EE	80E8E0C8	07F5B6CA	Department of Biology, Harvey Mudd College, 301 Platt Blvd, Claremont California 91711	harvey mudd college	1
+7CC21BD1	80E8E0C8	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California	harvey mudd college	1
+76C48450	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7F469E01	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7AD9E02D	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7B29837A	8161B5A4	07F5B6CA	Professor of History, Harvey Mudd College	harvey mudd college	1
+77C54462	81638432	07F5B6CA	Harvey Mudd College, Claremont, California	harvey mudd college	1
+7DEA6E3C	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7D643DD4	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7E605780	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+76532AFE	8161B5A4	07F5B6CA	Professor of the History of Technology, Emeritus, Harvey Mudd College	harvey mudd college	1
+7950BFFA	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+788A2285	8615271E	07F5B6CA	Harvey Mudd College Department of Biology Claremont CA USA	harvey mudd college	2
+6C7752B5	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7E550E45	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7C088FAA	8161B5A4	07F5B6CA	Professor of History, Harvey Mudd College	harvey mudd college	1
+7F76F737	8161B5A4	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+76DED368	8161B5A4	07F5B6CA	Professor of the History of Technology, Emeritus, Harvey Mudd College	harvey mudd college	1
+7F5C59C9	8161B5A4	07F5B6CA	Professor of History, Harvey Mudd College	harvey mudd college	1
+7E6B8812	75AFFDA9	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+814C144F	75AFFDA9	07F5B6CA	Harvey Mudd College (USA)	harvey mudd college	3
+8059ECFC	85285A14	07F5B6CA	Department of Computer Science, Harvey Mudd College, Claremont, California	harvey mudd college	5
+804CBB5E	7DD667EF	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+7EE8B7CB	7DDBED5E	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7636E6E3	7DDBED5E	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7621D9DC	7DDBED5E	07F5B6CA	Department of Engineering and Department of Physics, Harvey Mudd College, Claremont, California 91711, USA	harvey mudd college	2
+80DBE914	84958DFF	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	5
+5AE8573A	7DA932AC	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+14A8E493	77B67A96	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7B90A485	4E6CE188	07F5B6CA	Center for Quantitative Life Sciences and Department of Mathematics, Harvey Mudd College, 301 East Twelfth Street, Claremont, CA 91711, USA|||Center for Quantitative Life Sciences and Department of Mathematics, Harvey Mudd College, 301 East Twelfth Street, Claremont, CA 91711, USA	harvey mudd college	2
+764ACC48	4E6CE188	07F5B6CA	Harvey Mudd College, Claremont, CA 91711, U.S.A.	harvey mudd college	1
+08BDD3E8	7F4D3997	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+782A77A3	7F4D3997	07F5B6CA	Physics Department, Harvey Mudd College, 301 Platt Blvd., Claremont, California 91711, USA	harvey mudd college	5
+7F0F293E	84CDA3A9	07F5B6CA	Harvey Mudd College, 301 Platt Blvd, Claremont, CA 91711, USA	harvey mudd college	1
+81294863	4E6CE188	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+760E0AD7	4E6CE188	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, United States|||Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, United States	harvey mudd college	1
+09BAD963	800A0552	07F5B6CA	Harvey Mudd College, Clarement, CA (United States)] [and others	harvey mudd college	3
+7DEEFFF4	7A4B9AE6	07F5B6CA	Harvey Mudd College|University of Iowa	harvey mudd college	2
+7DBB430D	7B76ACCB	07F5B6CA	Department of Mathematics, Harvey Mudd College, 301 Platt Boulevard, Claremont, CA 91711, USA	harvey mudd college	2
+7DB389FB	806B68B3	07F5B6CA	Harvey Mudd College, Claremont, California	harvey mudd college	1
+59BB3104	80B67D5C	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+764BBA2E	80B67D5C	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, CA 91711 U.S.A.|||Department of Biology, Harvey Mudd College, Claremont, CA 91711 U.S.A.	harvey mudd college	3
+792CDC12	8285C588	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth Street, Claremont, California 91711.	harvey mudd college	3
+5E16DD66	8285C588	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+0648F32E	7D655DAA	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+76C458AA	7E1E7FEB	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+8025114B	7DE62508	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, California 91711|||Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139|||Department of Chemistry, Harvey Mudd College, Claremont, California 91711	harvey mudd college	1
+06DECDA3	81974D10	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+760DAD1E	84974EDE	07F5B6CA	Harvey Mudd College, 301 Platt Blvd., Claremont, CA 91711, USA	harvey mudd college	2
+79125017	848A152D	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+7B187592	2905BFD7	07F5B6CA	Harvey Mudd College, Claremont, California 91711University of Trondheim, 7000 Trondheim, #N#NorwayBeckman Laser Institute and Medical Clinic, University of California, Irvine, Irvine, California 92715Harvey Mudd College, Claremont, California 91711Beckman Laser Institute and Medical Clinic, University of California, Irvine, Irvine, California 92715	harvey mudd college	5
+85850C6E	16A40F8D	07F5B6CA	Harvey Mudd College,301 Platt Boulevard,Claremont,CA 91711,U.S.A.	harvey mudd college	3
+0757D4EE	7F305017	07F5B6CA	Department of Biology, Harvey Mudd College, 301 Platt Blvd, Claremont California 91711	harvey mudd college	6
+80D5A26D	78CB6544	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA|||Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+7C6EE79A	78CB6544	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+7BCB7D3F	7F26F9D8	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+59D56A18	7B0C153F	07F5B6CA	Harvey Mudd College, CA	harvey mudd college	1
+7C6E22ED	73A6D6D2	07F5B6CA	Dep. Chem., Harvey Mudd Coll., Claremont, CA 91711, USA	harvey mudd college	13
+7D25761F	85F71E37	07F5B6CA	Comput. Sci. Dept., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	4
+803D284A	84E15A66	07F5B6CA	Harvey Mudd Coll., Claremont, CA	harvey mudd college	3
+7675F5CD	81E9A074	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7C9D4D75	80D7C5B7	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+5D31315E	80D7C5B7	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7926EC06	814B42A4	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA	harvey mudd college	3
+75F51DC9	75C26E23	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+802D1F38	70C4F4FA	07F5B6CA	Physics Department, Harvey Mudd College, USA|||Physics Department, Harvey Mudd College, USA|||Physics Department, Harvey Mudd College, USA	harvey mudd college	15
+01F6E38D	75C26E23	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	2
+81619528	75C26E23	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+7B4A27DA	75C26E23	07F5B6CA	Harvey Mudd College, Claremont, California 91711	harvey mudd college	1
+7FA428C4	75C26E23	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+7A19BF93	75C26E23	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+79BF10DB	75C26E23	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+77599163	75C26E23	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+76A20041	75C26E23	07F5B6CA	Harvey Mudd College, Claremont, Calif.	harvey mudd college	1
+771A08B9	75C26E23	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	2
+7D9510BE	75C26E23	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+5E5AEFD9	70C4F4FA	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth Street, Claremont, California 91711	harvey mudd college	4
+7D934D91	7E17B4F9	07F5B6CA	Harvey Mudd College (USA) and Beckman Laser Institute (USA)	harvey mudd college	1
+7BC8A3C7	81A43E09	07F5B6CA	Computer Science Harvey Mudd College, Claremont, California, USA	harvey mudd college	4
+7555125A	71924C59	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+7927455D	0E7FC68B	07F5B6CA	Harvey Mudd College Department of Mathematics Claremont California	harvey mudd college	1
+79979C99	7893B635	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+7B8BB170	7893B635	07F5B6CA	Harvey Mudd Coll., Claremont, CA	harvey mudd college	1
+0589861C	16EFC8AB	07F5B6CA	Harvey Mudd College|University of California , Davis	harvey mudd college	1
+395BE61D	85404ED8	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7926EC06	84B33A37	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA	harvey mudd college	5
+7DC0DB31	84B33A37	07F5B6CA	Phys. Dept., Harvey Mudd Coll., Claremont, CA	harvey mudd college	2
+5F2E6DA6	7EB3430D	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	5
+80983855	7EC648A8	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	4
+7837B03C	7ED96B34	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7FCEFF3F	01B9A5B7	07F5B6CA	Biology Department, Harvey Mudd College, Claremont, California, United States of America	harvey mudd college	9
+7DC104A6	01B9A5B7	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+7F4AC700	01B9A5B7	07F5B6CA	1Biology Department, Harvey Mudd College, 301 Platt Boulevard, Claremont, CA 91711, USA|||2Department of Biological Sciences, Mount Holyoke College, South Hadley, MA 01075, USA|||3Department of Biology, Amherst College, Amherst, MA 01002, USA	harvey mudd college	1
+792703EA	01B9A5B7	07F5B6CA	Department of Biological Sciences, Mount Holyoke College, South Hadley, MA 01705, USA|||Department of Biology, Amherst College, Amherst, MA 01002, USA|||Biology Department, Harvey Mudd College, 301 Platt Boulevard, Claremont, CA 91711, USA	harvey mudd college	3
+7B41AFC8	01B9A5B7	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, CA	harvey mudd college	2
+7707C552	01B9A5B7	07F5B6CA	Biology Department, Harvey Mudd College, Claremont, California, United States of America	harvey mudd college	5
+8412702B	86293F21	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+77C342A5	01B9A5B7	07F5B6CA	Harvey Mudd College	harvey mudd college	4
+76C53BA3	0978A273	07F5B6CA	Harvey Mudd College	harvey mudd college	6
+77C38E3B	0978A273	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+138ECE0D	0978A273	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+76EC0ED2	803DA2D8	07F5B6CA	Harvey Mudd College of Engineering and Science	harvey mudd college	1
+7A58F522	7A45366B	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7E01C163	7A45366B	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+0757D4EE	816111D8	07F5B6CA	Department of Biology, Harvey Mudd College, 301 Platt Blvd, Claremont California 91711	harvey mudd college	23
+80CE8F23	816111D8	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California	harvey mudd college	2
+14A8E493	81282423	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+5F854E44	7D46CB07	07F5B6CA	Harvey Mudd College Department of Physics Claremont California	harvey mudd college	5
+7AD688C5	7D46CB07	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+7E903B7F	7E249BE6	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+7C27EB4B	7E22F0FC	07F5B6CA	Harvey Mudd College, United States	harvey mudd college	3
+7C4E8F96	7E249BE6	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	3
+00454A30	7EFA13CC	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+7543E796	1CB946AC	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, Ca, 91711|||Department of Chemistry, Harvey Mudd College, Claremont, Ca, 91711	harvey mudd college	2
+5AF40FB5	1CB946AC	07F5B6CA	The reviewer is in the Department of Chemistry, Harvey Mudd College, 301 Platt Boulevard, Claremont, CA 91711, USA. E-mail: Gerald_VanHecke@hmc.edu	harvey mudd college	1
+395BE61D	1CB946AC	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+5C9370BF	1CB946AC	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, California, 91711, U.S.A.	harvey mudd college	2
+7B2F56E8	1CB946AC	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, Calif, 91711	harvey mudd college	1
+7F67A5D9	1CB946AC	07F5B6CA	Department of Chemistry, Harvey Mudd College,Claremont,USA	harvey mudd college	1
+795CD66F	1CB946AC	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA, 91711, USA|||Department of Chemistry, Harvey Mudd College, Claremont, CA, 91711, USA	harvey mudd college	2
+7F9DB240	1CB946AC	07F5B6CA	The reviewer is at the Department of Chemistry, Harvey Mudd College, 301 Pratt Boulevard, Claremont, CA 91711, USA.	harvey mudd college	1
+3BAE5931	1CB946AC	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+76D317A6	1CB946AC	07F5B6CA	Department of Chemistry Harvey Mudd College Claremont CA 91711|||Department of Chemistry Harvey Mudd College Claremont CA 91711|||Department of Chemistry|Harvey Mudd College|||Department of Chemistry|Harvey Mudd College|||Department of Chemistry Harvey Mudd College Claremont CA 91711|||Department of Chemistry|Harvey Mudd College	harvey mudd college	1
+09ED7057	1CB946AC	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7C4E92A2	826C28F3	07F5B6CA	Department of Mathematics Harvey Mudd College Claremont, California 91711	harvey mudd college	1
+7D13D4F4	826C28F3	07F5B6CA	Mathematics Department, Harvey Mudd College, Claremont, CA 91711, USA. E-mail: Henriksen@hmc.edu	harvey mudd college	1
+77A1428F	7B1A1F77	07F5B6CA	Harvey Mudd College, 340 East Foothill Boulevard, Claremont, CA 91711, United States	harvey mudd college	3
+03FCFF52	826C28F3	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7B25D4DC	7BBD205E	07F5B6CA	Department of Engineering, Harvey Mudd College, Claremont, California 91711	harvey mudd college	2
+75EC9A1B	842DB1EB	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+777C5A8C	826C28F3	07F5B6CA	Harvey Mudd College, Claremont, CA, 91711	harvey mudd college	2
+768417FA	826C28F3	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	3
+0077A37E	826C28F3	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7CE40EC4	826C28F3	07F5B6CA	Harvey Mudd College, Claremont, California 91711, U.S.A.	harvey mudd college	1
+79E205AC	826C28F3	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	1
+7C60F158	846277E5	07F5B6CA	Harvey Mudd College|Pomona College Claremont|||Harvey Mudd College|Pomona College Claremont	harvey mudd college	2
+7B33442F	814A6E06	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+760DAD1E	8509BE94	07F5B6CA	Harvey Mudd College, 301 Platt Blvd., Claremont, CA 91711, USA	harvey mudd college	3
+5E5AEFD9	684CF278	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth Street, Claremont, California 91711	harvey mudd college	6
+7B098428	75C57B95	07F5B6CA	Department of Engineering, Harvey Mudd College, 301 Platt Boulevard, Claremont, CA 91711, U.S.A.	harvey mudd college	5
+7B33442F	7558D567	07F5B6CA	Harvey Mudd College	harvey mudd college	7
+7568146D	75C57B95	07F5B6CA	Harvey Mudd College (United States)	harvey mudd college	3
+80BF11A8	7D85A141	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+75E5B0BD	851EB11E	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+7A92847D	8311E6EF	07F5B6CA	Department of Mathematics, Harvey Mudd College, 301 Platt Blvd., Claremont, CA 91711	harvey mudd college	3
+5E438013	7DE3802B	07F5B6CA	Eng. Dept., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+00C485F5	7DE3802B	07F5B6CA	Harvey Mudd College	harvey mudd college	4
+76AA9CA7	7DE3802B	07F5B6CA	Engineering Dept. at Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+7877644C	7DE3802B	07F5B6CA	¶Harvey Mudd College,Claremont,California,USA	harvey mudd college	5
+5F854E44	7DE3802B	07F5B6CA	Harvey Mudd College Department of Engineering Claremont California	harvey mudd college	1
+71607ACD	7DE3802B	07F5B6CA	Department of Engineering, Harvey Mudd College, Claremont, CA, USA	harvey mudd college	5
+754AC6D6	7DE3802B	07F5B6CA	Harvey Mudd College (USA)	harvey mudd college	5
+75E4A67B	7DE3802B	07F5B6CA	Dept. of Engineering at Harvey Mudd College 301 Platt Boulevard, Claremont, CA 91711, USA	harvey mudd college	6
+7C60F158	7EA53011	07F5B6CA	Harvey Mudd College|Pomona College Claremont|||Harvey Mudd College|Pomona College Claremont	harvey mudd college	1
+760E0AD7	7EA53011	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, United States|||Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, United States	harvey mudd college	6
+6C89CE39	84A74B3C	07F5B6CA	Harvey Mudd College, Claremont, CA#TAB#	harvey mudd college	3
+5F6CAA1A	7EC12885	07F5B6CA	Harvey Mudd College|Department of Mathematics	harvey mudd college	1
+7EB32938	7EC12885	07F5B6CA	Department of Mathematics Harvey Mudd College 91711 Claremont CA USA|||Department of Mathematics Harvey Mudd College 91711 Claremont CA USA|||Department of Mathematics Harvey Mudd College 91711 Claremont CA USA	harvey mudd college	1
+75BE8171	7F48D4F5	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	3
+7F3B1E32	78DD7DA4	07F5B6CA	Department of Chemistry, Harvey Mudd College, 301 East 12th Street, Claremont, CA 91711‐5990, USA, Fax: (+1) 909‐607‐7577	harvey mudd college	4
+76AC6931	84D66A5C	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	3
+7D222F2C	4ADA6DD3	07F5B6CA	Computer Science Department Harvey Mudd College, Claremont,CA, USA	harvey mudd college	2
+7757E3F7	4ADA6DD3	07F5B6CA	Dept. of Comput. Sci. Clinic Program, Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+845E50A5	4ADA6DD3	07F5B6CA	Harvey Mudd College#TAB#	harvey mudd college	3
+7D25761F	4ADA6DD3	07F5B6CA	Comput. Sci. Dept., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	8
+76F78EA7	8002427F	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA. e-mail: moody@hmc.edu US|||Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA. e-mail: moody@hmc.edu US	harvey mudd college	2
+6EA80CB8	4ADA6DD3	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+800C1B9A	79F37888	07F5B6CA	Dept . of Mathematics|Harvey Mudd College	harvey mudd college	2
+8433D1E3	4ADA6DD3	07F5B6CA	Harvey Mudd College	harvey mudd college	6
+7CAF74AE	4ADA6DD3	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	4
+0A498F72	79F37888	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+754146EC	4ADA6DD3	07F5B6CA	Harvey Mudd College, CA	harvey mudd college	2
+7A689651	86354AB7	07F5B6CA	Harvey Mudd College, Claremont, California, USA.#TAB#	harvey mudd college	2
+812B9C05	4ADA6DD3	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	6
+852E383B	4ADA6DD3	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+79949245	4ADA6DD3	07F5B6CA	Harvey Mudd College	harvey mudd college	8
+0B60A4E8	4ADA6DD3	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+79A2EF83	4ADA6DD3	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+77BFC541	4ADA6DD3	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	4
+863C0BC8	4ADA6DD3	07F5B6CA	Harvey Mudd College#TAB#	harvey mudd college	3
+57887850	4ADA6DD3	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+7C6E22ED	8573FCC1	07F5B6CA	Dep. Chem., Harvey Mudd Coll., Claremont, CA 91711, USA	harvey mudd college	7
+80DBE914	84EEF86D	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	3
+7B098428	8442BBE7	07F5B6CA	Department of Engineering, Harvey Mudd College, 301 Platt Boulevard, Claremont, CA 91711, U.S.A.	harvey mudd college	3
+764B5ED8	642E8BD1	07F5B6CA	Harvey Mudd College (USA) and Beckman Laser Institute (USA)	harvey mudd college	1
+760E0AD7	7D5CCE75	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, United States|||Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, United States	harvey mudd college	2
+7AFF9D48	8182D794	07F5B6CA	Department of Engineering, Harvey Mudd College, Claremont, California 91711	harvey mudd college	4
+7C7734EE	7D361913	07F5B6CA	Harvey Mudd College (USA) and Beckman Laser Institute and Medical Clinic, Univ. of California/Irvine (USA)	harvey mudd college	1
+395BE61D	7D22F687	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+0757D4EE	38C3CDD6	07F5B6CA	Department of Biology, Harvey Mudd College, 301 Platt Blvd, Claremont California 91711	harvey mudd college	2
+7AFF9D48	8194C1AF	07F5B6CA	Department of Engineering, Harvey Mudd College, Claremont, California 91711	harvey mudd college	3
+76A8B636	7E9187AD	07F5B6CA	Physics Department|Harvey Mudd College|||Physics Department|Harvey Mudd College	harvey mudd college	2
+810427F1	81AA3900	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+76BC54E6	84B626B8	07F5B6CA	Harvey Mudd College 301 Platt Blvd., Claremont, CA, USA	harvey mudd college	5
+7D6C80DC	81AA3900	07F5B6CA	Harvey Mudd Coll., Claremont, CA	harvey mudd college	1
+7F12EB3E	81AA3900	07F5B6CA	Harvey Mudd Coll., Claremont, CA	harvey mudd college	2
+7B914FCC	85CD66D2	07F5B6CA	Harvey Mudd College	harvey mudd college	6
+7BC8A3C7	7ADA8EED	07F5B6CA	Computer Science Harvey Mudd College, Claremont, California, USA	harvey mudd college	5
+79C6E47D	7ADA8EED	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	2
+7B0648DD	7ADA8EED	07F5B6CA	Harvey Mudd College, Randall Davis, MIT	harvey mudd college	10
+7CF1063B	7ADA8EED	07F5B6CA	Harvey Mudd College, CA	harvey mudd college	1
+7926EC06	7B9A57FD	07F5B6CA	Dept. of Phys., Harvey Mudd Coll., Claremont, CA	harvey mudd college	1
+782A77A3	7B9A57FD	07F5B6CA	Physics Department, Harvey Mudd College, 301 Platt Blvd., Claremont, California 91711, USA	harvey mudd college	3
+7B33442F	80CFDBD7	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+7B0648DD	80798789	07F5B6CA	Harvey Mudd College, Randall Davis, MIT	harvey mudd college	3
+83196724	858301BF	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	2
+79125017	8483EFFB	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	4
+7F4F2B0D	8286260C	07F5B6CA	1Department of Computer Science, Harvey Mudd College, Claremont, CA 91711, 2Department of Electrical Engineering and Computer Science, MIT, Cambridge, MA 02139, 3Department of Computer Science and Engineering, University of Connecticut, Storrs, CT 06269 and 4Broad Institute, Cambridge, MA 02142, USA	harvey mudd college	3
+7E1754C0	7D98A7CE	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+0BED4ACD	7D98A7CE	07F5B6CA	Computer Science Department, Harvey Mudd College, Claremont, USA	harvey mudd college	1
+76BC54E6	7E07D384	07F5B6CA	Harvey Mudd College 301 Platt Blvd., Claremont, CA, USA	harvey mudd college	6
+79F7F685	0E06A95D	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California 91711	harvey mudd college	3
+7F0F293E	7DBDB86B	07F5B6CA	Harvey Mudd College, 301 Platt Blvd, Claremont, CA 91711, USA	harvey mudd college	7
+75DFD8DE	84A0E2C3	07F5B6CA	Harvey Mudd College, Claremont, California, USA	harvey mudd college	4
+79125017	84A0E2C3	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+75F10DAC	7E85DE52	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, California, 91711, U.S.A.	harvey mudd college	1
+7B187592	7857FB0C	07F5B6CA	Harvey Mudd College, Claremont, California 91711University of Trondheim, 7000 Trondheim, #N#NorwayBeckman Laser Institute and Medical Clinic, University of California, Irvine, Irvine, California 92715Harvey Mudd College, Claremont, California 91711Beckman Laser Institute and Medical Clinic, University of California, Irvine, Irvine, California 92715	harvey mudd college	3
+7564865F	69A6ADCF	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+79610837	84B9D606	07F5B6CA	Department of Engineering Harvey Mudd College Claremont, CA, USA	harvey mudd college	1
+80FEEAC9	7F074BE2	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	1
+790375A6	7F995D02	07F5B6CA	Harvey Mudd College, |	harvey mudd college	2
+00454A30	854EBE62	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7928D18E	83A03451	07F5B6CA	Harvey Mudd College	harvey mudd college	8
+7C0DAC8D	7FDE6020	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+7B107B40	7FDE6020	07F5B6CA	Department of Mathematics, Harvey Mudd College, 301 Platt Boulevard, Claremont, California 91711	harvey mudd college	1
+6E490C9D	7FDE6020	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7DD2B891	7FDE6020	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	1
+6DE81704	7FDE6020	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7F0BF8FC	7FDE6020	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7D13AAFF	8000648A	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+7C761EC5	73B8EDED	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+8417B057	7FDE6020	07F5B6CA	Harvey Mudd College, Claremont, USA	harvey mudd college	1
+8059ECFC	80DDD1EA	07F5B6CA	Department of Computer Science, Harvey Mudd College, Claremont, California	harvey mudd college	2
+762B17A8	841B0E5E	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+8155F322	80E7E90B	07F5B6CA	Harvey Mudd College, Claremont, California 91711 (United States)	harvey mudd college	2
+80A0FE20	841B0E5E	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+7C488C6E	7C3CD653	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, California 91711, USA	harvey mudd college	1
+7621D9DC	7C76F185	07F5B6CA	Department of Engineering and Department of Physics, Harvey Mudd College, Claremont, California 91711, USA	harvey mudd college	3
+7EE8B7CB	7C76F185	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+7636E6E3	7C76F185	07F5B6CA	Harvey Mudd College	harvey mudd college	4
+773FC553	7D2312C6	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+00454A30	0D4C926A	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+74E636A3	7DC3E6FF	07F5B6CA	Computer Science Department, Harvey Mudd College, USA	harvey mudd college	2
+7597EE4B	7DC3E6FF	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+7C4E8F96	833A5CBD	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	4
+80CE8346	7DC3E6FF	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+7BA91477	7DC3E6FF	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+58F03B6D	77F58A02	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+0757D4EE	4999A218	07F5B6CA	Department of Biology, Harvey Mudd College, 301 Platt Blvd, Claremont California 91711	harvey mudd college	22
+7CC21BD1	4999A218	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California	harvey mudd college	5
+5E627A9F	7F003B42	07F5B6CA	Harvey Mudd College	harvey mudd college	5
+7C085B44	7ECF760C	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	7
+7A8716A8	0B6741CA	07F5B6CA	Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+79277433	0B6741CA	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	6
+7E84A2CF	0B6741CA	07F5B6CA	Harvey Mudd College|Dept . of Engineering|||Harvey Mudd College|Dept . of Engineering|||Harvey Mudd College, Dept. of Mathematics Claremont CA 91711 USA|||Harvey Mudd College|Dept . of Mathematics|||Harvey Mudd College|Dept . of Engineering|||Harvey Mudd College|Dept . of Mathematics|||Harvey Mudd College|Dept . of Mathematics|||Harvey Mudd College, Dept. of Mathematics Claremont CA 91711 USA|||Harvey Mudd College|Dept . of Mathematics|||Harvey Mudd College|Dept . of Mathematics|||Harvey Mudd College|Dept . of Mathematics|||Harvey Mudd College, Dept. of Mathematics Claremont CA 91711 USA	harvey mudd college	2
+7C085B44	0B6741CA	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	6
+80A3C2C2	0B6741CA	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+7B921EC9	0B6741CA	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	2
+80ECFAAC	0B6741CA	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California, United States of America	harvey mudd college	7
+8061E79C	80370A2E	07F5B6CA	Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+78B87720	0B6741CA	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California 91711	harvey mudd college	2
+766C0589	0B6741CA	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, California, United States of America	harvey mudd college	4
+77A8DC8C	7AFB0C90	07F5B6CA	Department of Computer Science|Harvey Mudd College|||Department of Computer Science|Harvey Mudd College	harvey mudd college	4
+7CFEB6E1	0B6741CA	07F5B6CA	Department of Mathematics|Harvey Mudd College	harvey mudd college	2
+7B007E83	0B6741CA	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+753F05CC	0B6741CA	07F5B6CA	Department of Mathematics, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+758A41EA	7FEF8028	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	4
+7555125A	7AFB0C90	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+776E67FF	0B6741CA	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+7CC32C08	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	4
+7E423608	5E50CA45	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+83196724	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	3
+5EDB5BCC	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+86375701	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA#TAB#	harvey mudd college	2
+7564865F	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	4
+79A2EF83	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+76468ADD	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+8176E85B	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+75AADF3B	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	2
+76DB1284	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	3
+8639EA93	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA#TAB#	harvey mudd college	2
+78AC8550	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+766D5623	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+79F7CCEB	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+80EF4991	5E50CA45	07F5B6CA	Harvey Mudd College|Computer Science Department	harvey mudd college	1
+5D3A2291	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+83692C15	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+787D1403	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+79999627	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+7DBB70FA	5E50CA45	07F5B6CA	Harvey Mudd College Computer Science Department, Claremont, CA	harvey mudd college	1
+077F8CC4	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+7F67A5D9	131F2CFE	07F5B6CA	Department of Chemistry, Harvey Mudd College,Claremont,USA	harvey mudd college	3
+7DD47C4D	5E50CA45	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA	harvey mudd college	2
+78FF18CD	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, California	harvey mudd college	2
+5A136DC4	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+5E627A9F	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	6
+5D70209A	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+801871C4	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+83A9642F	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7CAF74AE	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+7E519E5A	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+76C8D724	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+834D3918	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA#TAB#	harvey mudd college	3
+01A1E37F	5E50CA45	07F5B6CA	Harvey Mudd College, Computer Science Department, Claremont, CA	harvey mudd college	5
+7D5441E0	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	7
+7D171E52	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+764D0D99	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+0052453C	5E50CA45	07F5B6CA	Harvey Mudd College|Computer Science Department|||Harvey Mudd College|Computer Science Department	harvey mudd college	1
+7C4C51E8	863EE1B7	07F5B6CA	Harvey Mudd College (United States)	harvey mudd college	4
+764CE423	7C67D360	07F5B6CA	Undergraduate Student, 301 E. 12th Street, Department of Engineering, Harvey Mudd College, Claremont, C A 91711.	harvey mudd college	2
+8145C179	755B2EA4	07F5B6CA	Comput. Sci. Dept., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+61712897	7D925F52	07F5B6CA	ORNL & Harvey Mudd|||Department of Physics, Harvey Mudd College, Claremont, California 91711, USA|||ORNL & Harvey Mudd|||Department of Physics, Harvey Mudd College, Claremont, California 91711, USA|||ORNL & Harvey Mudd|||Department of Physics, Harvey Mudd College, Claremont, California 91711, USA|||ORNL & Harvey Mudd|||Department of Physics, Harvey Mudd College, Claremont, California 91711, USA	harvey mudd college	3
+5E627A9F	755B2EA4	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+7ACF65A5	76B2B335	07F5B6CA	Department of Biology, Harvey Mudd College, Claremont, California, Untied States of America	harvey mudd college	1
+7F67A5D9	0261D11E	07F5B6CA	Department of Chemistry, Harvey Mudd College,Claremont,USA	harvey mudd college	2
+80480659	0261D11E	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA, 91711, U.S.A.	harvey mudd college	1
+75D76330	7E1E9897	07F5B6CA	Harvey Mudd College (USA)	harvey mudd college	2
+76D317A6	0261D11E	07F5B6CA	Department of Chemistry Harvey Mudd College Claremont CA 91711|||Department of Chemistry|Harvey Mudd College|||Department of Chemistry|Harvey Mudd College|||Department of Chemistry Harvey Mudd College Claremont CA 91711|||Department of Chemistry Harvey Mudd College Claremont CA 91711|||Department of Chemistry|Harvey Mudd College	harvey mudd college	2
+772F897E	0261D11E	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, Calif, USA|||Department of Chemistry, Harvey Mudd College, Claremont, Calif, USA	harvey mudd college	5
+758A41EA	0261D11E	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	1
+5F96381F	0261D11E	07F5B6CA	CUR's Institutionalizing Undergraduate Research Program|||Harvey Mudd College	harvey mudd college	3
+5EDFE837	0261D11E	07F5B6CA	CUR's Institutionalizing Undergraduate Research Program|||Harvey Mudd College	harvey mudd college	3
+7BFB2BBD	7857725A	07F5B6CA	Physics Department, Harvey Mudd College, 301 E. 12th Street, Claremont, CA 91711, USA	harvey mudd college	2
+7962EC3A	7857725A	07F5B6CA	Department of Physics, 224 East Twelfth St., Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	2
+758A41EA	7EC8B745	07F5B6CA	Department of Chemistry, Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	3
+792CDC12	7857725A	07F5B6CA	Department of Physics, Harvey Mudd College, 224 East Twelfth Street, Claremont, California 91711.	harvey mudd college	2
+76C53BA3	853E7BE1	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+741ABF33	81A51281	07F5B6CA	Harvey Mudd College,Claremont,USA	harvey mudd college	4
+7726E1F4	7F6DC6E7	07F5B6CA	Harvey Mudd College, Claremont, California 91711	harvey mudd college	1
+76C458AA	7F49A376	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+5D31315E	78CFBFB4	07F5B6CA	Harvey Mudd College	harvey mudd college	6
+7C6E22ED	7F657864	07F5B6CA	Dep. Chem., Harvey Mudd Coll., Claremont, CA 91711, USA	harvey mudd college	1
+58C2138B	7F062B7E	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7B33442F	78CFBFB4	07F5B6CA	Harvey Mudd College	harvey mudd college	6
+3DE7AC8A	7F6DC6E7	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+771FAAE8	7F28F82A	07F5B6CA	University of Freiburg|||Harvey Mudd College	harvey mudd college	2
+7C9D4D75	78CFBFB4	07F5B6CA	Harvey Mudd College	harvey mudd college	4
+77289BF6	841140CF	07F5B6CA	Dept. of Eng., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+7B187592	8005472A	07F5B6CA	Harvey Mudd College, Claremont, California 91711University of Trondheim, 7000 Trondheim, #N#NorwayBeckman Laser Institute and Medical Clinic, University of California, Irvine, Irvine, California 92715Harvey Mudd College, Claremont, California 91711Beckman Laser Institute and Medical Clinic, University of California, Irvine, Irvine, California 92715	harvey mudd college	2
+7962EC3A	81F1E721	07F5B6CA	Department of Physics, 224 East Twelfth St., Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	4
+7C488C6E	81F821BF	07F5B6CA	Department of Physics, Harvey Mudd College, Claremont, California 91711, USA	harvey mudd college	2
