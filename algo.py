@@ -12,9 +12,9 @@ logging.basicConfig(format='%(asctime)s %(message)s', level=logging.INFO)
 #path_paperauthoraffil='/disamb/data/PaperAuthorAffiliations/first1000.txt'
 #path_paperreferences='/disamb/data/PaperReferences/firstMillion.txt'
 
-path_authors='/disamb/temp/temp_authors.txt'
-path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil.txt'
-path_paperreferences='/disamb/temp/temp_paperreferences.txt'
+path_authors='/disamb/temp/temp_authors2.txt'
+path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil2.txt'
+path_paperreferences='/disamb/temp/temp_paperreferences2.txt'
 
 # Set the alpha and beta values
 alpha_a=0.54
@@ -42,14 +42,14 @@ neo_graph=Graph(conn_protocol+"://"+surl+"/db/data/")
 cypher_resource=neo_graph.cypher
 
 # Function to compute co-authorship overlap
-def compute_coauthorship_overlap(paper1_id, paper2_id):
+def compute_coauthorship_overlap(paper1_id, paper2_id, primary_author_id):
     paper1_authors=[]
     paper2_authors=[]
     with open(path_paperauthoraffil, 'r') as f_paperauthoraffil:
         paper1_authors=[]
         paper2_authors=[]
         for line in f_paperauthoraffil:
-            line_split=line.replace('\n', '').replace('\r','').split()
+            line_split=line.replace('\n', '').replace('\r','').split('\t')
             paper_id=line_split[0]
             author_id=line_split[1]
             if(paper_id==paper1_id):
@@ -66,8 +66,15 @@ def compute_coauthorship_overlap(paper1_id, paper2_id):
         for author2 in paper2_authors:
             if author1==author2:
                 common_authors+=1
-    result=common_authors/min_authors
-    print("Co-authorship score: "+str(result))
+    # Remove the primary author from both the lists and reduce the min_authors count
+    paper1_authors.remove(primary_author_id)
+    paper2_authors.remove(primary_author_id)
+    min_authors-=1
+    if min_authors==0:
+        result=0
+    else:
+        result=common_authors/min_authors
+    #print("Co-authorship score: "+str(result))
     return result
 
 # Function to compite self citation count
@@ -76,7 +83,7 @@ def compute_self_citation_count(paper1_id, paper2_id):
     paper2_reference=1
     with open(path_paperreferences, 'r') as f_paperreferences:
         for line in f_paperreferences:
-            line_split=line.replace('\n','').replace('\r','').split()
+            line_split=line.replace('\n','').replace('\r','').split('\t')
             paper_id=line_split[0]
             reference_id=line_split[1]
             if (paper_id==paper1_id):
@@ -88,7 +95,7 @@ def compute_self_citation_count(paper1_id, paper2_id):
             if (paper1_reference==1 and paper2_reference==1):
                 break
     result=paper1_reference+paper2_reference
-    print("Self citations: "+str(result))
+    #print("Self citations: "+str(result))
     return result
 
 # Function to compute shared reference count
@@ -98,7 +105,7 @@ def compute_shared_reference_count(paper1_id, paper2_id):
     common_references=0
     with open(path_paperreferences, 'r') as f_paperreferences:
         for line in f_paperreferences:
-            line_split=line.replace('\n','').replace('\r','').split()
+            line_split=line.replace('\n','').replace('\r','').split('\t')
             paper_id=line_split[0]
             reference_id=line_split[1]
             if (paper_id==paper1_id):
@@ -109,7 +116,7 @@ def compute_shared_reference_count(paper1_id, paper2_id):
         for reference2 in paper2_references:
             if (reference1==reference2):
                 common_references+=1
-    print("Shared reference count: "+str(common_references))
+    #print("Shared reference count: "+str(common_references))
     return common_references
 
 # Function to compute citation overlap
@@ -118,7 +125,7 @@ def compute_citation_overlap(paper1_id, paper2_id):
     citation2=[]
     with open(path_paperreferences, 'r') as f_paperreferences:
         for line in f_paperreferences:
-            line_split=line.replace('\n','').replace('\r','').split()
+            line_split=line.replace('\n','').replace('\r','').split('\t')
             paper_id=line_split[0]
             reference_id=line_split[1]
             if (reference_id==paper1_id):
@@ -135,13 +142,13 @@ def compute_citation_overlap(paper1_id, paper2_id):
         result=common_citations
     else:
         result=common_citations/min_citations
-    print("Common citations: "+str(result))
+    #print("Common citations: "+str(result))
     return result
 
 # Function to compute similarity score
 def compute_similarity_score(coauthorship_overlap, self_citation_count, shared_reference_count, citation_overlap):
     similarity_score=alpha_a*coauthorship_overlap+alpha_s*self_citation_count+alpha_r*shared_reference_count+alpha_c*citation_overlap
-    print("Similarity score: "+str(similarity_score))
+    # print("Similarity score: "+str(similarity_score))
     return similarity_score
 
 # Dictionary storing the similarity values of papers
@@ -150,7 +157,7 @@ with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
     logging.debug('Opened file '+path_authors)
     # For each author from 'Authors.txt'
     for line in f_authors:
-        line_split=line.split('\t')
+        line_split=line.replace('\n','').replace('\r','').split('\t')
         author_id=line_split[0]
         logging.debug('Working on Author: '+line_split[1])
         with open(path_paperauthoraffil, 'r') as f_paperauthoraffil_1:
@@ -164,7 +171,7 @@ with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
                 # Check for the author we are looking for
                 if(paper1_author_id!=author_id):
                     continue
-                print("First paper match found!")
+                # print("First paper match found!")
                 with open(path_paperauthoraffil, 'r') as f_paperauthoraffil_2:
                     logging.debug('Opened file '+path_paperauthoraffil)
                     # For each paper author relationship
@@ -177,10 +184,10 @@ with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
                         paper2_id=ppa_line2_split[0]
                         paper2_author_id=ppa_line2_split[1]
                         # Check for the author we are looking for
-                        print("Comparing "+paper2_author_id+" and "+author_id)
+                        # print("Comparing "+paper2_author_id+" and "+author_id)
                         if(paper2_author_id!=author_id):
                             continue
-                        print("Second paper match found!")
+                        # print("Second paper match found!")
                         # Check if the similarity is already computed
                         if not similarity.get(paper1_id):
                             logging.debug('Paper ['+paper1_id+'] was not compared with any paper.')
@@ -190,7 +197,7 @@ with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
                         if not simil_papers.get(paper2_id):
                             logging.debug('Paper ['+paper1_id+'] was not compared with paper ['+paper2_id+']')
                             # Compute co-authorship overlap
-                            coauthorship_overlap=compute_coauthorship_overlap(paper1_id, paper2_id)
+                            coauthorship_overlap=compute_coauthorship_overlap(paper1_id, paper2_id, author_id)
                             # Compute self citation count
                             self_citation_count=compute_self_citation_count(paper1_id, paper2_id)
                             # Compute shared reference count
@@ -201,13 +208,17 @@ with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
                             similarity_score=compute_similarity_score(coauthorship_overlap, self_citation_count, shared_reference_count, citation_overlap)
                             # Update the similarity score
                             simil_papers.update({paper2_id: similarity_score})
-                            logging.debug('Updated similarity score for paper ['+paper1_id+'] - paper ['+paper2_id+'] as ['+str(similarity_score)+']')
+#                            logging.debug('Updated similarity score for paper ['+paper1_id+'] - paper ['+paper2_id+'] as ['+str(similarity_score)+']')
                             # Check if similarity score is above the threshold
                             if (similarity_score>=beta_1):
+                                print(">>>>> "),
                                 # Add paper 2 to the cluster of paper 1
                                 # The following query finds if a cluster exists for paper 1, creates it if it does not and then adds paper 2 to the cluster of paper 1
                                 add_to_cluster_query="MERGE (c:Cluster)<-[:BELONGS_TO]-(p:PaperID{pid: '"+paper1_id+"'}) CREATE (c)<-[:BELONGS_TO]-(p1:PaperID{pid: '"+paper2_id+"'})"
-                                ##### qresult=cypher_resource.execute(add_to_cluster_query)
-                                logging.info("Added paper ID "+paper2_id+" to the cluster of paper ID "+paper1_id)
+                                # qresult=cypher_resource.execute(add_to_cluster_query)
+#                                logging.info("Added paper ID "+paper2_id+" to the cluster of paper ID "+paper1_id)
                             else:
-                                logging.info("Similarity score for paper ID "+paper2_id+" and "+paper1_id+" is "+similarity_score+", less than "+beta_1)
+#                                logging.info("Similarity score for paper ID "+paper2_id+" and "+paper1_id+" is "+similarity_score+", less than "+beta_1)
+                                pass
+                            print("["+paper1_id+","+paper2_id+"] Similarity score: "+str(similarity_score)+" Individual attributes: ["+str(coauthorship_overlap)+","+str(self_citation_count)+","+str(shared_reference_count)+","+str(citation_overlap)+"]")
+
