@@ -3,7 +3,9 @@
 import logging
 import getpass
 from py2neo import authenticate, Graph, watch
+import time
 import codecs
+import mmap
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.INFO)
 
@@ -12,7 +14,7 @@ logging.basicConfig(format='%(asctime)s %(message)s', level=logging.INFO)
 #path_paperauthoraffil='/disamb/data/PaperAuthorAffiliations/first1000.txt'
 #path_paperreferences='/disamb/data/PaperReferences/firstMillion.txt'
 
-path_authors='/disamb/temp/temp_authors2.txt'
+path_authors='/disamb/temp/temp_authors2_trimmed.txt'
 path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil2.txt'
 path_paperreferences='/disamb/temp/temp_paperreferences2.txt'
 
@@ -151,14 +153,21 @@ def compute_similarity_score(coauthorship_overlap, self_citation_count, shared_r
     # print("Similarity score: "+str(similarity_score))
     return similarity_score
 
+# Note the starting time
+t1=time.time()
+
 # Dictionary storing the similarity values of papers
 similarity={}
 with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
     logging.debug('Opened file '+path_authors)
+    mmap_authors=mmap.mmap(f_authors.fileno(), 0, access=mmap.ACCESS_READ)
     # For each author from 'Authors.txt'
     for line in f_authors:
         line_split=line.replace('\n','').replace('\r','').split('\t')
         author_id=line_split[0]
+        author_name=line_split[1]
+        # Remember the current position that we are reading from
+        pos=mmap_authors.tell()
         logging.debug('Working on Author: '+line_split[1])
         with open(path_paperauthoraffil, 'r') as f_paperauthoraffil_1:
             logging.debug('Opened file '+path_paperauthoraffil)
@@ -170,7 +179,15 @@ with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
                 paper1_author_id=ppa_line1_split[1]
                 # Check for the author we are looking for
                 if(paper1_author_id!=author_id):
+                    paper1_author_found=mmap_authors.find(paper1_author_id)
+                    if (paper1_author_found != -1):
+                        mmap_authors.seek(paper1_author_found)
+                        paper1_author_name=mmap_authors.readline().replace('\n','').replace('\r','').split('\t')[1]
+                        mmap_authors.seek(pos)
+                        if (author_name != paper1_author_name):
+                            continue
                     continue
+                ### Add handling to check if the name of this author is similar to that of any other one
                 # print("First paper match found!")
                 with open(path_paperauthoraffil, 'r') as f_paperauthoraffil_2:
                     logging.debug('Opened file '+path_paperauthoraffil)
@@ -186,6 +203,13 @@ with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
                         # Check for the author we are looking for
                         # print("Comparing "+paper2_author_id+" and "+author_id)
                         if(paper2_author_id!=author_id):
+                            paper1_author_found=mmap_authors.find(paper2_author_id)
+                            if (paper2_author_found != -1):
+                                mmap_authors.seek(paper2_author_found)
+                                paper2_author_name=mmap_authors.readline().replace('\n','').replace('\r','').split('\t')[1]
+                                mmap_authors.seek(pos)
+                                if (author_name != paper2_author_name):
+                                    continue
                             continue
                         # print("Second paper match found!")
                         # Check if the similarity is already computed
@@ -222,3 +246,6 @@ with codecs.open(path_authors, 'r', encoding='utf-8') as f_authors:
                                 pass
                             print("["+paper1_id+","+paper2_id+"] Similarity score: "+str(similarity_score)+" Individual attributes: ["+str(coauthorship_overlap)+","+str(self_citation_count)+","+str(shared_reference_count)+","+str(citation_overlap)+"]")
 
+# Note the completion time
+t2=time.time()
+logging.info("Total time taken: "+str(round(t2-t1, 2))+" second(s)")
