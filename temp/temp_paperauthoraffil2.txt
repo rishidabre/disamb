@@ -1,5 +1,189 @@
+7E81156B	48B3D1CC	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA 02142, USA	alnylam pharmaceuticals	2
+7E26148C	48B3D1CC	08A945A5	Alnylam Pharmaceuticals Inc|||Alnylam Pharmaceuticals Inc., 300 3rd Street, Cambridge, Massachusetts 02142, USA	alnylam pharmaceuticals	13
+7C9ADBE0	7F0E9539	08A945A5	Alnylam Pharmaceuticals	alnylam pharmaceuticals	1
 7C2BDDE1	80FEC8D9	08A945A5	Alnylam Pharmaceuticals, Cambridge,These authors contributed equally to this work.	alnylam pharmaceuticals	41
+3CC0CB76	80EA517E	08A945A5	2Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	7
+7B1E9D04	80EA517E	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	16
+7CFC6CBB	80EA517E	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	9
+6D8AD27F	80EA517E	08A945A5	3Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	15
+7CCE3356	80EA517E	08A945A5	Alnylam. Pharmaceuticals, 300 Third Street, Cambridge, Massachusetts 02142 (USA)	alnylam pharmaceuticals	16
+7D94860B	80EA517E	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA (USA)	alnylam pharmaceuticals	14
+7C2BDDE1	80EA517E	08A945A5	Alnylam Pharmaceuticals, Cambridge	alnylam pharmaceuticals	22
+24F48975	80EA517E	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	12
+7CFC6CBB	7F49DA6A	08A945A5	Alnylam Pharmaceuticals, 300 Third Street, Cambridge, MA 02142 (USA)	alnylam pharmaceuticals	7
+7B2D834A	77BAEADE	08A945A5	Alnylam Pharmaceuticals Inc., 300 Third Street, Cambridge, MA 02142, USA	alnylam pharmaceuticals	4
+7DF498F6	77BAEADE	08A945A5	Alnylam Pharmaceuticals, Cambridge, MA, USA	alnylam pharmaceuticals	11
+24F48975	77BAEADE	08A945A5	1Rsch, Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	4
+329342F9	77BAEADE	08A945A5	1Alnylam Pharmaceuticals, Cambridge, MA	alnylam pharmaceuticals	9
+8024CFCB	77BAEADE	08A945A5	#N#11Clinical, Alnylam Pharmaceuticals#N#	alnylam pharmaceuticals	20
+7B8BB170	8426ABF6	07F5B6CA	Harvey Mudd Coll., Claremont, CA	harvey mudd college	2
+79979C99	8426ABF6	07F5B6CA	Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	2
+0757D4EE	38C3CDD6	07F5B6CA	Department of Biology, Harvey Mudd College, 301 Platt Blvd, Claremont California 91711	harvey mudd college	2
+7CC32C08	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	4
+7E423608	5E50CA45	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA, USA	harvey mudd college	1
+83196724	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	3
+5EDB5BCC	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+86375701	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA#TAB#	harvey mudd college	2
+7564865F	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	4
+79A2EF83	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+76468ADD	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+8176E85B	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+75AADF3B	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	2
+76DB1284	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	3
+8639EA93	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA#TAB#	harvey mudd college	2
+78AC8550	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+766D5623	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+79F7CCEB	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	2
+80EF4991	5E50CA45	07F5B6CA	Harvey Mudd College|Computer Science Department	harvey mudd college	1
+5D3A2291	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	2
+83692C15	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+787D1403	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+79999627	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+7DBB70FA	5E50CA45	07F5B6CA	Harvey Mudd College Computer Science Department, Claremont, CA	harvey mudd college	1
+077F8CC4	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+7DD47C4D	5E50CA45	07F5B6CA	Dept. of Comput. Sci., Harvey Mudd Coll., Claremont, CA	harvey mudd college	2
+78FF18CD	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, California	harvey mudd college	2
+5A136DC4	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	3
+5E627A9F	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	6
+5D70209A	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA	harvey mudd college	1
+801871C4	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+83A9642F	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	1
+7CAF74AE	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+7E519E5A	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+76C8D724	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	3
+834D3918	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA#TAB#	harvey mudd college	3
+01A1E37F	5E50CA45	07F5B6CA	Harvey Mudd College, Computer Science Department, Claremont, CA	harvey mudd college	5
+7D5441E0	5E50CA45	07F5B6CA	Harvey Mudd College	harvey mudd college	7
+7D171E52	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+764D0D99	5E50CA45	07F5B6CA	Harvey Mudd College, Claremont, CA, USA	harvey mudd college	1
+0052453C	5E50CA45	07F5B6CA	Harvey Mudd College|Computer Science Department|||Harvey Mudd College|Computer Science Department	harvey mudd college	1
+7962EC3A	81F1E721	07F5B6CA	Department of Physics, 224 East Twelfth St., Harvey Mudd College, Claremont, CA 91711, USA	harvey mudd college	4
 59CE92D0	80FEC8D9	4E61E7F4	Department of Biochemistry and Molecular Biology, Faculty of Medicine, University of British Columbia Vancouver, B.C., V6T 1Z3, Canada	american society for biochemistry and molecular biology	2
+7E47EDD8	80EA517E	03C0079C	Technical University of Munich, Munich, Germany	technische universitat munchen	1
+78F4E947	80EA517E	03C0079C	 Department Chemie, Technische Universität München, Lehrbereich Anorganische Chemie, AK Analytische Chemie, Garching, Germany	technische universitat munchen	3
+7CE78937	80EA517E	03C0079C	Klinikum rechts der Isar, Ophthalmology, Technische Universität München, 81675 München, Germany	technische universitat munchen	3
+7D8DCB7C	48B3D1CC				7
+7E92E2FB	48B3D1CC				10
+72E73C91	48B3D1CC				5
+7944C58E	48B3D1CC				5
+77C913D3	48B3D1CC				1
+7F3AFE5B	7F0E9539				4
+03CCB2A5	38C3CDD6				2
+18FBB560	5E50CA45				9
+7FED9985	5E50CA45				2
+0382EEEB	5E50CA45				1
+72FF065F	5E50CA45				3
+75697CC4	5E50CA45				7
+8145C179	5E50CA45				6
+07F28775	5E50CA45				2
+15A6F15E	5E50CA45				1
+59698834	5E50CA45				2
+7DA9E59C	5E50CA45				2
+388EFAF6	5E50CA45				2
+2F84E9FA	5E50CA45				1
+81489D2B	80EA517E				3
+7C94C15C	80EA517E				4
+3E0A7A4E	80EA517E				2
+7C963D08	80EA517E		Department of Medicinal Chemistry, Isis Pharmaceuticals Inc., Carlsbad, CA 92008		9
+8156A2EE	80EA517E				5
+7CAE85A8	80EA517E				7
+68D60C4B	80EA517E				3
+59787AB1	80EA517E				15
+76C80029	80EA517E				2
+76E9037E	80EA517E				2
+76FDD997	80EA517E				8
+75487BC3	80EA517E				1
+7C41057D	80EA517E				3
+5F5B889A	80EA517E				4
+86145EFB	80EA517E				3
+7C613C9F	80EA517E				13
+7C6EE7E3	80EA517E		ISIS Pharmaceuticals, Inc., 2292 Faraday Ave., Carslbad, California, 92008, U.S.A.		4
+7F3AFE5B	80EA517E				17
+798E04CB	80EA517E				19
+7F8F65B1	80EA517E				1
+83FCA5A7	80EA517E				2
+79A1557E	80EA517E				1
+7BB9E85D	80EA517E		Department of Medicinal Chemistry|ISIS Pharmaceuticals		4
+5EBB1FAE	80EA517E				5
+83189E4A	80EA517E				2
+7E92E2FB	80EA517E				15
+78107529	80EA517E				2
+6E18769B	80EA517E				2
+7AB007B4	80EA517E				1
+80302BA4	80EA517E				7
+80765A2D	80EA517E				19
+7B40D085	80EA517E				6
+856DAE7F	80EA517E				8
+3CEEEDA1	80EA517E				7
+7A20B0FC	80EA517E				1
+7A2DCD7B	80EA517E				2
+777A0642	80EA517E				9
+7E5CBFC0	80EA517E				4
+778F7C0F	80EA517E				1
+5E11C39C	80EA517E				1
+8419AB8D	80EA517E				6
+77646030	80EA517E		Isis Pharmaceuticals, Inc.		4
+7DB02C98	80EA517E		Department of Medicinal Chemistry Isis Pharmaceuticals Carlsbad, CA 92008, USA, Fax: (+1) 760‐929‐0036		2
+7DC55053	80EA517E				16
+77BA9C3C	80EA517E				6
+7B7BDBA4	80EA517E				2
+7B77C570	80EA517E				3
+59B79FFB	80EA517E				4
+7DD8048D	80EA517E				15
+84949A40	80EA517E				4
+75B3AAE7	80EA517E		Isis Pharmaceuticals, Inc., Department of Medicinal Chemistry, Carlsbad, California 92008 USA		2
+75C7DCA6	80EA517E				5
+386498B8	80EA517E				1
+78552E80	80EA517E				16
+785FA8D9	80EA517E				1
+786C4039	80EA517E				3
+78730C5C	80EA517E				1
+3A8ED91D	80EA517E				4
+7BE95967	80EA517E				23
+0977799D	80EA517E				1
+789EC92E	80EA517E				4
+7F02DFFE	80EA517E				6
+72B61E1C	80EA517E				2
+7F073959	80EA517E				15
+58B56569	80EA517E				1
+60FD8B5E	80EA517E				4
+771CE26F	80EA517E				4
+12259EA1	80EA517E				1
+83A4D679	80EA517E				2
+5BDD1451	80EA517E				1
+83A58583	80EA517E				2
+78D6709A	80EA517E				19
+78F2E08F	80EA517E				6
+06336CEE	80EA517E				13
+78F627EB	80EA517E				1
+7831D42A	80EA517E				3
+7EC64AE3	80EA517E				6
+5C84D859	80EA517E				4
+732A32FE	80EA517E				4
+7F585EBA	80EA517E				8
+794EDD48	80EA517E				2
+73E158FF	80EA517E				6
+73E3DE4A	80EA517E				6
+7ACFBA29	80EA517E				16
+5DE48077	80EA517E				3
+058E6C84	80EA517E				1
+7CFD0F82	80EA517E				2
+7FC6ECCF	80EA517E				25
+5D169E05	80EA517E				4
+74F407D4	80EA517E				2
+8173C78B	80EA517E		Lab. Med. Chem., Cent. Cancer Res., Natl. Cancer Inst., Frederick, MD 21702, USA		4
+76FDD997	7F49DA6A				7
+59BC0616	7F49DA6A		Department of Health, Victoria.		1
+76C269E1	7F49DA6A				3
+5A20BCAE	77BAEADE				2
+7F3AFE5B	77BAEADE				25
+78D6709A	77BAEADE				14
+78F627EB	77BAEADE				14
+05FB5E14	77BAEADE				15
+82658457	77BAEADE				4
+7749A349	77BAEADE				7
+7BE95967	77BAEADE				18
+7C053E08	77BAEADE				22
 80FD12C4	80FEC8D9				1
 7C1F5F12	80FEC8D9				7
 7D94860B	80FEC8D9		AlCana Technologies, Vancouver, BC (Canada) http://www.alnylam.com		19
@@ -142,3 +326,8 @@
 8035A4F5	80FEC8D9	0875EA92	Department of Medicine, The University of British Columbia, F254 Koerner Pavilion, 2211 Wesbrook Mall, Vancouver, B.C. V6T 2B5, Canada	university of british columbia	3
 79AA272A	80FEC8D9	0875EA92	Department of Biochemistry University of British Columbia Vancouver, British Columbia, Canada	university of british columbia	7
 7556DEB0	80FEC8D9	0875EA92	The Canadian Liposome Co., Ltd., North Vancouver, British Columbia, Canada V7M 1A5|||Department of Biochemistry, University of British Columbia, Vancouver, British Columbia, Canada V6T 1W5|||The Canadian Liposome Co., Ltd., Suite 308, 267 West Esplanade, North Vancouver, British Columbia, Canada V7M 1A5	university of british columbia	1
+5A0F9864	5E50CA45	01F71AD0	Yale University	yale university	1
+81014248	5E50CA45	01F71AD0	Center for Comput. Vision & Control, Yale Univ., New Haven, CT, USA	yale university	1
+7DCC7D5A	5E50CA45	01F71AD0	Center for Computational Vision and Control, c/o Computer Science Department, P.O. Box 208285, Yale University, New Haven, CT, 06520. zachary.dodds@yale.edu	yale university	2
+5F2024E5	80EA517E	35095641	Robert Bosch GmbH	bosch	1
+78FDBA67	80EA517E	35095641	R&D, Bosch Solar CISTech GmbH, Brandenburg, Germany	bosch	9
