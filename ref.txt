@@ -9,3 +9,7 @@ https://docs.python.org/2/library/codecs.html
 http://stackoverflow.com/questions/11086752/read-a-text-file-with-non-ascii-characters-in-an-unknown-encoding
 https://docs.python.org/2/howto/unicode.html
 https://pymotw.com/2/getpass/
+http://stackoverflow.com/questions/6332577/send-outlook-email-via-python
+https://www.lifewire.com/what-are-the-outlook-com-smtp-server-settings-1170671
+https://docs.python.org/2/library/mmap.html
+https://docs.python.org/2/library/subprocess.html#module-subprocess
