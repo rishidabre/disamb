@@ -459,7 +459,7 @@ def start_algo():
     return
 
 def main():
-#    start_algo()
+    start_algo()
     perform_clustering_l2()
 
 main()
