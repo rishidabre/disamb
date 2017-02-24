@@ -22,9 +22,9 @@ notification_subject="Disambiguation Algorithm Notification"
 #path_paperauthoraffil="/mnt/MicrosoftAcademicGraph/PaperAuthorAffiliations/PaperAuthorAffiliations.txt"
 #path_paperreferences="/mnt/MicrosoftAcademicGraph/PaperReferences/PaperReferences.txt"
 
-path_authors='/disamb/temp/temp_authors2_trimmed.txt'
-path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil2.txt'
-path_paperreferences='/disamb/temp/temp_paperreferences2.txt'
+path_authors='/disamb/temp/temp_authors4_trimmed.txt'
+path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil4.txt'
+path_paperreferences='/disamb/temp/temp_paperreferences4.txt'
 
 path_prevpos="/disamb/prevpos.txt"
 
@@ -167,7 +167,7 @@ def compute_similarity_score(paper1_id, paper2_id):
 #    citation_overlap=1
     citation_overlap=compute_citation_overlap(paper1_id, paper2_id)
     similarity_score=alpha_a*coauthorship_overlap+alpha_s*self_citation_count+alpha_r*shared_reference_count+alpha_c*citation_overlap
-    # print("Similarity score: "+str(similarity_score))
+#    print("Similarity score: "+str(similarity_score)+", papers ["+paper1_id+","+paper2_id+"], coauthorship="+str(coauthorship_overlap)+",self_citation="+str(self_citation_count)+",shared_reference="+str(shared_reference_count)+",citation_overlap="+str(citation_overlap))
     return similarity_score
 
 # Dictionary storing the similarity values of papers
@@ -299,13 +299,14 @@ def perform_clustering_l1():
 
 # Perform clustering of level 2 i. e. form clusters of similar clusters
 def perform_clustering_l2():
-    f_cluster_stats=open('cluster_stats','w')
+    f_cluster_stats=open('cluster_stats.txt','w')
     t1=time.time()
+    cluster_paper_records={}
     # Compute cluster similarities
     cluster_similarity={}
     verified_clusters=[]
     get_clusters_query="MATCH (c:ClusterL1) RETURN ID(c) ORDER BY ID(c)"
-    get_papers_query="MATCH (c:ClusterL1)<-[r:BELONGS_TO]-(p:PaperID) WHERE ID(c)=_CLUSTER_ID_ RETURN ID(p) ORDER BY ID(p)"
+    get_papers_query="MATCH (c:ClusterL1)<-[r:BELONGS_TO]-(p:PaperID) WHERE ID(c)=_CLUSTER_ID_ RETURN p.pid ORDER BY ID(p)"
     cluster_records=cypher_resource.execute(get_clusters_query)
     clusters_size=len(cluster_records)
     cluster1_index=0
@@ -313,9 +314,10 @@ def perform_clustering_l2():
     for cluster1_record in enumerate(cluster_records):
         cluster1_index+=1
         cluster1=cluster1_record.__getitem__(1).__getitem__(0)
-        cluster_similarity_score=0
         if(cluster1==None):
             continue
+#        if cluster1 in verified_clusters:
+#            continue
         # Clusters- Inner loop
         cluster2_index=0
         for cluster2_record in enumerate(cluster_records):
@@ -327,23 +329,32 @@ def perform_clustering_l2():
                 continue
             if cluster2 in verified_clusters:
                 continue
-            cluster1_paper_records=cypher_resource.execute(get_papers_query.replace('_CLUSTER_ID_', str(cluster1)))
+            if cluster1 not in cluster_paper_records:
+                cluster1_paper_records=cypher_resource.execute(get_papers_query.replace('_CLUSTER_ID_', str(cluster1)))
+                cluster_paper_records[cluster1]=cluster1_paper_records
+            else:
+                cluster1_paper_records=cluster_paper_records[cluster1]
             cluster1_size=len(cluster1_paper_records)
             cluster2_size=0
             # Papers- Outer loop
             paper1_index=0
+            cluster_similarity_score=0
             for paper1_record in cluster1_paper_records:
                 paper1_index+=1
-                paper1=paper1_record.__getitem__(0)
+                paper1=str(paper1_record.__getitem__(0))
                 if(paper1==None):
                     continue
-                cluster2_paper_records=cypher_resource.execute(get_papers_query.replace('_CLUSTER_ID_', str(cluster2)))
+                if cluster2 not in cluster_paper_records:
+                    cluster2_paper_records=cypher_resource.execute(get_papers_query.replace('_CLUSTER_ID_', str(cluster2)))
+                    cluster_paper_records[cluster2]=cluster2_paper_records
+                else:
+                    cluster2_paper_records=cluster_paper_records[cluster2]
                 cluster2_size=len(cluster2_paper_records)
                 # Papers- Inner loop
                 paper2_index=0
                 for paper2_record in cluster2_paper_records:
                     paper2_index+=1
-                    paper2=paper2_record.__getitem__(0)
+                    paper2=str(paper2_record.__getitem__(0))
                     if(paper2==None):
                         continue
                     simil_papers=paper_similarity.get(paper1)
@@ -360,7 +371,7 @@ def perform_clustering_l2():
                     print("[%s/%s %s/%s %s/%s %s/%s]" % (cluster1_index, clusters_size, cluster2_index, clusters_size, paper1_index, cluster1_size, paper2_index, cluster2_size))
             if (cluster1_size!=0 and cluster2_size!=0):
                 cluster_similarity_score/=(cluster1_size*cluster2_size)
-                f_cluster_stats.write(str(cluster_similarity_score)+"\t"+str(cluster1_size)+"\t"+str(cluster2_size)+"\n")
+                f_cluster_stats.write(str(cluster_similarity_score)+"\t"+str(cluster1)+"\t"+str(cluster2)+"\n")
                 if not cluster_similarity.get(cluster1):
                     cluster_similarity.update({cluster1: {}})
                 simil_cluster=cluster_similarity.get(cluster1)
@@ -369,6 +380,8 @@ def perform_clustering_l2():
                 if cluster_similarity_score>beta_3:
                     add_to_cluster_cluster_query="MATCH (c1:ClusterL1) WITH c1 WHERE ID(c1)="+str(cluster1)+" MERGE (c2:ClusterL2)<-[:BELONGS_TO]-(c1) WITH c2 MATCH (c1a:ClusterL1) WITH c2,c1a WHERE ID(c1a)="+str(cluster2)+" CREATE (c2)<-[:BELONGS_TO]-(c1a)"
                     qresult=cypher_resource.execute(add_to_cluster_cluster_query)
+                    if cluster1 not in verified_clusters:
+                        verified_clusters.append(cluster1)
                     verified_clusters.append(cluster2)
     print(cluster_similarity)
     f_cluster_stats.close()
@@ -449,6 +462,9 @@ def start_algo():
     print("Size of buckets: "+str(sys.getsizeof(buckets))+" bytes\nBuckets:")
     print(buckets)
     t2=time.time()
+    with open('bucketed_authors.txt','w') as f_bucketed_authors:
+        for key, value in buckets.iteritems():
+            f_bucketed_authors.write(key+"\n")
     time_taken=str(round(t2-t1, 2))+" second(s)"
     print("Time taken for bucketing Authors: "+time_taken)
     notification_text="The level 1 clustering of the algorithm has completed.\n\n"\

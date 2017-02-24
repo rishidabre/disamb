@@ -26,7 +26,7 @@ watch("httpstream")
 sgraph = Graph("http://neo4j-genbank.syr.edu:7474/db/data/")
 sgraph.cypher
 
-path_paperauthoraffil="temp/temp_paperauthoraffil2.txt"
+path_paperauthoraffil="temp/temp_paperauthoraffil4.txt"
 
 t1=currenttime()
 with open(path_paperauthoraffil, 'r') as f_paperauthoraffil:
@@ -36,17 +36,17 @@ with open(path_paperauthoraffil, 'r') as f_paperauthoraffil:
         main_author_id=-1
         cluster_l2_id=cluster_l2_record.__getitem__(1).__getitem__(0)
         get_clusters_query="MATCH (c2:ClusterL2)<-[r:BELONGS_TO]-(c1:ClusterL1) WHERE ID(c2)="+str(cluster_l2_id)+" RETURN ID(c1) AS CLUSTER_ID"
-        print(get_clusters_query)
+#        print(get_clusters_query)
         clusters=sgraph.cypher.execute(get_clusters_query)
         for cluster_record in enumerate(clusters.records):
             author_id=-1
             cluster_id=cluster_record.__getitem__(1).__getitem__(0)
 #            print("For Cluster ID: "+str(cluster_id))
             get_papers_query="MATCH (c:ClusterL1)<-[r:BELONGS_TO]-(p:PaperID) WHERE ID(c)="+str(cluster_id)+" RETURN p.pid AS PAPER_ID"
-            print(get_papers_query)
+#            print(get_papers_query)
             papers=sgraph.cypher.execute(get_papers_query)
-            print("Papers: "),
-            print(papers)
+#            print("Papers: "),
+#            print(papers)
             for paper_record in enumerate(papers.records):
                 paper_id=paper_record.__getitem__(1).__getitem__(0)
                 index=mmap_paperauthoraffil.find(paper_id)

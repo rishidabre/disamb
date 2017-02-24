@@ -26,7 +26,7 @@ watch("httpstream")
 sgraph = Graph("http://neo4j-genbank.syr.edu:7474/db/data/")
 sgraph.cypher
 
-path_paperauthoraffil="temp/temp_paperauthoraffil2.txt"
+path_paperauthoraffil="temp/temp_paperauthoraffil4.txt"
 
 t1=currenttime()
 with open(path_paperauthoraffil, 'r') as f_paperauthoraffil:
@@ -42,6 +42,7 @@ with open(path_paperauthoraffil, 'r') as f_paperauthoraffil:
             paper_id=paper_record.__getitem__(1).__getitem__(0)
             index=mmap_paperauthoraffil.find(paper_id)
             current_line=""
+            current_author_id=-1
             if index!=-1:
                 mmap_paperauthoraffil.seek(index)
                 current_line=mmap_paperauthoraffil.readline().replace('\n','').replace('\r','')
@@ -49,7 +50,7 @@ with open(path_paperauthoraffil, 'r') as f_paperauthoraffil:
                 mmap_paperauthoraffil.seek(0)
             if author_id==-1:
                 author_id=current_author_id
-            if author_id!=current_author_id:
+            elif author_id!=current_author_id:
                 print("Author ID mismatch in Cluster ID: "+str(cluster_id)),
                 print(" Concerned row: "+current_line)
 t2=currenttime()

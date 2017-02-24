@@ -3,11 +3,11 @@
 import codecs
 import time
 
-path_authors="/scrp/Authors.txt"
-path_authors_trimmed="/scrp/AuthorsTrimmed.txt"
+#path_authors="/scrp/Authors.txt"
+#path_authors_trimmed="/scrp/AuthorsTrimmed.txt"
 
-#path_authors="/disamb/temp/temp_authors2.txt"
-#path_authors_trimmed="/disamb/temp/temp_authors2_trimmed.txt"
+path_authors="/disamb/temp/temp_authors4.txt"
+path_authors_trimmed="/disamb/temp/temp_authors4_trimmed.txt"
 
 t1=time.time()
 with codecs.open(path_authors,"r","utf-8") as f_authors:
