@@ -22,9 +22,9 @@ notification_subject="Disambiguation Algorithm Notification"
 #path_paperauthoraffil="/mnt/MicrosoftAcademicGraph/PaperAuthorAffiliations/PaperAuthorAffiliations.txt"
 #path_paperreferences="/mnt/MicrosoftAcademicGraph/PaperReferences/PaperReferences.txt"
 
-path_authors='/disamb/temp/temp_authors4_trimmed.txt'
-path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil4.txt'
-path_paperreferences='/disamb/temp/temp_paperreferences4.txt'
+path_authors='/disamb/temp/temp_authors6_trimmed.txt'
+path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil6.txt'
+path_paperreferences='/disamb/temp/temp_paperreferences6.txt'
 
 path_prevpos="/disamb/prevpos.txt"
 
@@ -402,6 +402,18 @@ def start_algo():
     total_lines=subprocess.check_output(["grep", "-vc", "'^$'", path_paperauthoraffil]).replace('\n','')
     print("Total papers: "+str(total_lines))
     average_bucketing_time=0
+    f_prevpos=open(path_prevpos, 'r')
+    prevpos=0
+    try:
+        prevpos=long(f_prevpos.readline().replace('\n',''))
+    except Exception as e:
+        print("Exception occurred!")
+        print(e)
+        prevpos=0
+    f_prevpos.close()
+    print("prevpos=["+str(prevpos)+"]")
+    first_run=True
+    f_prevpos=open(path_prevpos, 'a')
     with open(path_paperauthoraffil, 'r') as f_paperauthoraffil:
         with codecs.open(path_authors, 'r', 'utf-8') as f_authors:
             mmap_authors=mmap.mmap(f_authors.fileno(), 0, access=mmap.ACCESS_READ)
@@ -410,6 +422,20 @@ def start_algo():
                 ta1=time.time()*1000
                 print("["+str(lnum)+"/"+str(total_lines)+"] "),
                 lnum+=1
+                if first_run:
+                    if (lnum-1)<=prevpos:
+                        continue
+                    else:
+                        # Wrte to file
+                        f_prevpos.truncate(0)
+                        f_prevpos.seek(0)
+                        f_prevpos.write(str(lnum-1))
+                        first_run=False
+                else:
+                    # Wrte to file
+                    f_prevpos.truncate(0)
+                    f_prevpos.seek(0)
+                    f_prevpos.write(str(lnum-1))
                 line_split=line_paperauthoraffil.replace('\n','').replace('\r','').split('\t')
                 paper_id=line_split[0]
                 author_id=line_split[1]
@@ -462,6 +488,7 @@ def start_algo():
     print("Size of buckets: "+str(sys.getsizeof(buckets))+" bytes\nBuckets:")
     print(buckets)
     t2=time.time()
+    f_prevpos.close()
     with open('bucketed_authors.txt','w') as f_bucketed_authors:
         for key, value in buckets.iteritems():
             f_bucketed_authors.write(key+"\n")
