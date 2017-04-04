@@ -18,13 +18,13 @@ notification_receivers=["rrdabre@syr.edu"]
 notification_subject="Disambiguation Algorithm Notification"
 
 # Set the file paths
-#path_authors="/scrp/AuthorsTrimmed.txt"
-#path_paperauthoraffil="/mnt/MicrosoftAcademicGraph/PaperAuthorAffiliations/PaperAuthorAffiliations.txt"
-#path_paperreferences="/mnt/MicrosoftAcademicGraph/PaperReferences/PaperReferences.txt"
+path_authors="/scrp/AuthorsTrimmed.txt"
+path_paperauthoraffil="/mnt/MicrosoftAcademicGraph/PaperAuthorAffiliations/PaperAuthorAffiliations.txt"
+path_paperreferences="/mnt/MicrosoftAcademicGraph/PaperReferences/PaperReferences.txt"
 
-path_authors='/disamb/temp/temp_authors6_trimmed.txt'
-path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil6.txt'
-path_paperreferences='/disamb/temp/temp_paperreferences6.txt'
+#path_authors='/disamb/temp/temp_authors6_trimmed.txt'
+#path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil6.txt'
+#path_paperreferences='/disamb/temp/temp_paperreferences6.txt'
 
 path_prevpos="/disamb/prevpos.txt"
 
@@ -53,12 +53,40 @@ neo_graph=Graph(conn_protocol+"://"+surl+"/db/data/")
 # Check if the authentication is working by acquiring the cypher resource
 cypher_resource=neo_graph.cypher
 
+# Length of the keys with which the file chunks are named
+_KEYLEN_=3
+
+# Paths to the directories where file chunks are stored (absolute or relative to current directory)
+dir_paperauthoraffil="PaperAuthorAffiliations"
+
+# Returns the paths to the PaperAuthorAffiliations chunk files containing given paper IDs
+def get_paperauthoraffil_chunk_file_paths(paper1_id, paper2_id):
+    key1=paper1_id[0:_KEYLEN_]
+    fpath1=dir_paperauthoraffil+"/"+key1+".txt"
+    key2=paper2_id[0:_KEYLEN_]
+    fpath2=dir_paperauthoraffil+"/"+key2+".txt"
+    return [fpath1, fpath2]
+
+# Returns the paths to the PaperReferences chunk files containing given paper IDs
+def get_paperreferences_chunk_file_paths(paper1_id, paper2_id):
+    key1=paper1_id[0:_KEYLEN_]
+    fpath1=dir_paperreferences+"/"+key1+".txt"
+    key2=paper2_id[0:_KEYLEN_]
+    fpath2=dir_paperreferences+"/"+key2+".txt"
+    return [fpath1, fpath2]
+    
 # Function to compute co-authorship overlap
 def compute_coauthorship_overlap(paper1_id, paper2_id):
     paper1_authors=[]
     paper2_authors=[]
     with open('chunk_swap','w+r') as f_chunk_swap:
-        grep_process=subprocess.Popen(["grep","-e",paper1_id,"-e",paper2_id,path_paperauthoraffil], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
+        fpaths=get_paperauthoraffil_chunk_file_paths(paper1_id, paper2_id)
+        fpath1=fpaths[0]
+        fpath2=fpaths[1]
+        if fpath1==fpath2:
+            grep_process=subprocess.Popen(["grep","-h","-e",paper1_id,"-e",paper2_id, fpath1], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
+        else:
+            grep_process=subprocess.Popen(["grep","-h","-e",paper1_id,"-e",paper2_id, fpath1, fpath2], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
         grep_process.communicate()
         f_chunk_swap.seek(0)
         for line in f_chunk_swap:
@@ -96,7 +124,10 @@ def compute_coauthorship_overlap(paper1_id, paper2_id):
 def compute_self_citation_count(paper1_id, paper2_id):
     pattern1=paper1_id+"\t"+paper2_id
     pattern2=paper2_id+"\t"+paper1_id
-    grep_result=subprocess.Popen(["grep","-e",paper1_id,"-e",paper2_id,path_paperreferences], shell=False, stdout=subprocess.PIPE).communicate()[0]
+    fpaths=get_paperreferences_chunk_file_paths(paper1_id, paper2_id)
+    fpath1=fpaths[0]
+    fpath2=fpaths[1]
+    grep_result=subprocess.Popen(["grep","-h","-e",paper1_id,"-e",paper2_id,fpath1,fpath2], shell=False, stdout=subprocess.PIPE).communicate()[0]
     result=(grep_result.find(pattern1) or grep_result.find(pattern2))
     return (1 if result!=-1 else 0)
 
@@ -105,7 +136,13 @@ def compute_shared_reference_count(paper1_id, paper2_id):
     paper1_references=[]
     paper2_references=[]
     with open('chunk_swap','w+r') as f_chunk_swap:
-        grep_process=subprocess.Popen(["grep","-e",paper1_id,"-e",paper2_id,path_paperreferences], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
+        fpaths=get_paperreferences_chunk_file_paths(paper1_id, paper2_id)
+        fpath1=fpaths[0]
+        fpath2=fpaths[1]
+        if fpath1==fpath2:
+            grep_process=subprocess.Popen(["grep","-h","-e",paper1_id,"-e",paper2_id,fpath1], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
+        else:
+            grep_process=subprocess.Popen(["grep","-h","-e",paper1_id,"-e",paper2_id,fpath1,fpath2], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
         grep_process.communicate()
         f_chunk_swap.seek(0)
         for line in f_chunk_swap:
@@ -130,7 +167,13 @@ def compute_citation_overlap(paper1_id, paper2_id):
     citation1=[]
     citation2=[]
     with open('chunk_swap','w+r') as f_chunk_swap:
-        grep_process=subprocess.Popen(["/bin/grep","-e",paper1_id,"-e",paper2_id,path_paperreferences], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
+        fpaths=get_paperreferences_chunk_file_paths(paper1_id, paper2_id)
+        fpath1=fpaths[0]
+        fpath2=fpaths[1]
+        if fpath1==fpath2:
+            grep_process=subprocess.Popen(["/bin/grep","-h","-e",paper1_id,"-e",paper2_id,fpath1], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
+        else:
+            grep_process=subprocess.Popen(["/bin/grep","-h","-e",paper1_id,"-e",paper2_id,fpath1,fpath2], shell=False, stdout=f_chunk_swap)#subprocess.PIPE)
         grep_process.communicate()
         f_chunk_swap.seek(0)
         for line in f_chunk_swap:
@@ -157,17 +200,23 @@ def compute_citation_overlap(paper1_id, paper2_id):
 
 # Function to compute similarity score
 def compute_similarity_score(paper1_id, paper2_id):
+    t1=time.time()*1000
     # Compute co-authorship overlap
     coauthorship_overlap=compute_coauthorship_overlap(paper1_id, paper2_id)
+    t2=time.time()*1000
     # Compute self citation count
     self_citation_count=compute_self_citation_count(paper1_id, paper2_id)
+    t3=time.time()*1000
     # Compute shared reference count
     shared_reference_count=compute_shared_reference_count(paper1_id, paper2_id)
+    t4=time.time()*1000
     # Compute citation overlap
 #    citation_overlap=1
     citation_overlap=compute_citation_overlap(paper1_id, paper2_id)
+    t5=time.time()*1000
     similarity_score=alpha_a*coauthorship_overlap+alpha_s*self_citation_count+alpha_r*shared_reference_count+alpha_c*citation_overlap
 #    print("Similarity score: "+str(similarity_score)+", papers ["+paper1_id+","+paper2_id+"], coauthorship="+str(coauthorship_overlap)+",self_citation="+str(self_citation_count)+",shared_reference="+str(shared_reference_count)+",citation_overlap="+str(citation_overlap))
+    print "Parameter Compuation Times (millis) [co-authorship, self-citation, shared reference, citation overlap]: [%s,%s,%s,%s]"%(t2-t1, t3-t2, t4-t3, t5-t4)
     return similarity_score
 
 # Dictionary storing the similarity values of papers
@@ -274,7 +323,7 @@ def perform_clustering_l1():
                                     # Add paper 2 to the cluster of paper 1
                                     # The following query finds if a cluster exists for paper 1, creates it if it does not and then adds paper 2 to the cluster of paper 1
                                     add_to_cluster_query="MERGE (cl1:ClusterL1)<-[:BELONGS_TO]-(p:PaperID{pid: '"+paper1_id+"'}) CREATE (cl1)<-[:BELONGS_TO]-(p1:PaperID{pid: '"+paper2_id+"'})"
-                                    qresult=cypher_resource.execute(add_to_cluster_query)
+######                                    qresult=cypher_resource.execute(add_to_cluster_query)
                                     nodes_added+=1
 #                                    logging.info("Added paper ID "+paper2_id+" to the cluster of paper ID "+paper1_id)
 #                                    if(paper1_author_id!=paper2_author_id):
@@ -379,7 +428,7 @@ def perform_clustering_l2():
                     simil_cluster.update({cluster2: cluster_similarity_score})
                 if cluster_similarity_score>beta_3:
                     add_to_cluster_cluster_query="MATCH (c1:ClusterL1) WITH c1 WHERE ID(c1)="+str(cluster1)+" MERGE (c2:ClusterL2)<-[:BELONGS_TO]-(c1) WITH c2 MATCH (c1a:ClusterL1) WITH c2,c1a WHERE ID(c1a)="+str(cluster2)+" CREATE (c2)<-[:BELONGS_TO]-(c1a)"
-                    qresult=cypher_resource.execute(add_to_cluster_cluster_query)
+#############                    qresult=cypher_resource.execute(add_to_cluster_cluster_query)
                     if cluster1 not in verified_clusters:
                         verified_clusters.append(cluster1)
                     verified_clusters.append(cluster2)
@@ -440,7 +489,10 @@ def start_algo():
                 paper_id=line_split[0]
                 author_id=line_split[1]
                 mmap_authors.seek(0)
+                tauthor1=time.time()*1000
                 index_authors=mmap_authors.find(author_id)
+                tauthor2=time.time()*1000
+                print "Time to find author ID (millis): %s"%(tauthor2-tauthor1)
                 if index_authors != -1:
                     mmap_authors.seek(index_authors)
                     author_name=mmap_authors.readline().replace('\n','').replace('\r','').split('\t')[1].encode('utf-8')
@@ -469,7 +521,7 @@ def start_algo():
                                 # Add paper 2 to the cluster of paper 1
                                 # The following query finds if a cluster exists for paper 1, creates it if it does not and then adds paper 2 to the cluster of paper 1
                                 add_to_cluster_query="MERGE (cl1:ClusterL1{author_name: '"+author_name+"'})<-[:BELONGS_TO]-(p:PaperID{pid: '"+paperx_id+"'}) CREATE (cl1)<-[:BELONGS_TO]-(p1:PaperID{pid: '"+paper_id+"'})"
-                                qresult=cypher_resource.execute(add_to_cluster_query)
+################                                qresult=cypher_resource.execute(add_to_cluster_query)
                                 #                                    logging.info("Added paper ID "+paper2_id+" to the cluster of paper ID "+paper1_id)
                                 #                                    if(paper1_author_id!=paper2_author_id):
                                 #                                        print("Different Authors: "),
