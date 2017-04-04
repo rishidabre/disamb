@@ -58,6 +58,7 @@ _KEYLEN_=3
 
 # Paths to the directories where file chunks are stored (absolute or relative to current directory)
 dir_paperauthoraffil="PaperAuthorAffiliations"
+dir_paperreferences="PaperReferences"
 
 # Returns the paths to the PaperAuthorAffiliations chunk files containing given paper IDs
 def get_paperauthoraffil_chunk_file_paths(paper1_id, paper2_id):
@@ -323,7 +324,7 @@ def perform_clustering_l1():
                                     # Add paper 2 to the cluster of paper 1
                                     # The following query finds if a cluster exists for paper 1, creates it if it does not and then adds paper 2 to the cluster of paper 1
                                     add_to_cluster_query="MERGE (cl1:ClusterL1)<-[:BELONGS_TO]-(p:PaperID{pid: '"+paper1_id+"'}) CREATE (cl1)<-[:BELONGS_TO]-(p1:PaperID{pid: '"+paper2_id+"'})"
-######                                    qresult=cypher_resource.execute(add_to_cluster_query)
+                                    qresult=cypher_resource.execute(add_to_cluster_query)
                                     nodes_added+=1
 #                                    logging.info("Added paper ID "+paper2_id+" to the cluster of paper ID "+paper1_id)
 #                                    if(paper1_author_id!=paper2_author_id):
@@ -428,7 +429,7 @@ def perform_clustering_l2():
                     simil_cluster.update({cluster2: cluster_similarity_score})
                 if cluster_similarity_score>beta_3:
                     add_to_cluster_cluster_query="MATCH (c1:ClusterL1) WITH c1 WHERE ID(c1)="+str(cluster1)+" MERGE (c2:ClusterL2)<-[:BELONGS_TO]-(c1) WITH c2 MATCH (c1a:ClusterL1) WITH c2,c1a WHERE ID(c1a)="+str(cluster2)+" CREATE (c2)<-[:BELONGS_TO]-(c1a)"
-#############                    qresult=cypher_resource.execute(add_to_cluster_cluster_query)
+                    qresult=cypher_resource.execute(add_to_cluster_cluster_query)
                     if cluster1 not in verified_clusters:
                         verified_clusters.append(cluster1)
                     verified_clusters.append(cluster2)
@@ -489,10 +490,7 @@ def start_algo():
                 paper_id=line_split[0]
                 author_id=line_split[1]
                 mmap_authors.seek(0)
-                tauthor1=time.time()*1000
                 index_authors=mmap_authors.find(author_id)
-                tauthor2=time.time()*1000
-                print "Time to find author ID (millis): %s"%(tauthor2-tauthor1)
                 if index_authors != -1:
                     mmap_authors.seek(index_authors)
                     author_name=mmap_authors.readline().replace('\n','').replace('\r','').split('\t')[1].encode('utf-8')
@@ -521,7 +519,7 @@ def start_algo():
                                 # Add paper 2 to the cluster of paper 1
                                 # The following query finds if a cluster exists for paper 1, creates it if it does not and then adds paper 2 to the cluster of paper 1
                                 add_to_cluster_query="MERGE (cl1:ClusterL1{author_name: '"+author_name+"'})<-[:BELONGS_TO]-(p:PaperID{pid: '"+paperx_id+"'}) CREATE (cl1)<-[:BELONGS_TO]-(p1:PaperID{pid: '"+paper_id+"'})"
-################                                qresult=cypher_resource.execute(add_to_cluster_query)
+                                qresult=cypher_resource.execute(add_to_cluster_query)
                                 #                                    logging.info("Added paper ID "+paper2_id+" to the cluster of paper ID "+paper1_id)
                                 #                                    if(paper1_author_id!=paper2_author_id):
                                 #                                        print("Different Authors: "),
