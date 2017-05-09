@@ -18,15 +18,15 @@ notification_receivers=["rrdabre@syr.edu"]
 notification_subject="Disambiguation Algorithm Notification"
 
 # Set the file paths
-path_authors="/scrp/AuthorsTrimmed.txt"
-path_paperauthoraffil="/mnt/MicrosoftAcademicGraph/PaperAuthorAffiliations/PaperAuthorAffiliations.txt"
-path_paperreferences="/mnt/MicrosoftAcademicGraph/PaperReferences/PaperReferences.txt"
+path_authors="/home/neo4j/data/extracted/Authors/AuthorsTrimmed.txt"
+path_paperauthoraffil="/home/neo4j/data/extracted/PaperAuthorAffiliations/PaperAuthorAffiliations.txt"
+path_paperreferences="/home/neo4j/data/extracted/PaperReferences/PaperReferences.txt"
 
 #path_authors='/disamb/temp/temp_authors6_trimmed.txt'
 #path_paperauthoraffil='/disamb/temp/temp_paperauthoraffil6.txt'
 #path_paperreferences='/disamb/temp/temp_paperreferences6.txt'
 
-path_prevpos="/disamb/prevpos.txt"
+path_prevpos="/home/neo4j/rishi/disamb/prevpos.txt"
 
 # Set the alpha and beta values
 alpha_a=0.54
@@ -57,8 +57,8 @@ cypher_resource=neo_graph.cypher
 _KEYLEN_=3
 
 # Paths to the directories where file chunks are stored (absolute or relative to current directory)
-dir_paperauthoraffil="PaperAuthorAffiliations"
-dir_paperreferences="PaperReferences"
+dir_paperauthoraffil="/home/neo4j/rishi/disamb/PaperAuthorAffiliations"
+dir_paperreferences="/home/neo4j/rishi/disamb/PaperReferences"
 
 # Returns the paths to the PaperAuthorAffiliations chunk files containing given paper IDs
 def get_paperauthoraffil_chunk_file_paths(paper1_id, paper2_id):
@@ -496,7 +496,8 @@ def start_algo():
                     author_name=mmap_authors.readline().replace('\n','').replace('\r','').split('\t')[1].encode('utf-8')
                     if author_name not in buckets:
                         buckets[author_name]=[]
-                    for paperx_id in buckets.get(author_name):
+                    curr_bucket=buckets.get(author_name)
+                    for paperx_id in curr_bucket:
                         if paper_id in papers_verified:
                             # Paper already verified
                             continue
@@ -520,6 +521,7 @@ def start_algo():
                                 # The following query finds if a cluster exists for paper 1, creates it if it does not and then adds paper 2 to the cluster of paper 1
                                 add_to_cluster_query="MERGE (cl1:ClusterL1{author_name: '"+author_name+"'})<-[:BELONGS_TO]-(p:PaperID{pid: '"+paperx_id+"'}) CREATE (cl1)<-[:BELONGS_TO]-(p1:PaperID{pid: '"+paper_id+"'})"
                                 qresult=cypher_resource.execute(add_to_cluster_query)
+                                break
                                 #                                    logging.info("Added paper ID "+paper2_id+" to the cluster of paper ID "+paper1_id)
                                 #                                    if(paper1_author_id!=paper2_author_id):
                                 #                                        print("Different Authors: "),
