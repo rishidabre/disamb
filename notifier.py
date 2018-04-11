@@ -3,7 +3,7 @@
 #import socket
 
 def send_notification(sender, receivers, subject, text):
-    SERVER = "smtp-host.syr.edu:587"
+    SERVER = ""
     #FROM = socket.gethostname()+"@syr.edu"
     FROM = sender
     TO = receivers # must be a list
